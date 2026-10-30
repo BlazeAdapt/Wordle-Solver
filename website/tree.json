@@ -1,0 +1,7812 @@
+{
+    "guess": "salet",
+    "ryrrr": {
+        "guess": "brond",
+        "yrrrr": {
+            "guess": "aback"
+        },
+        "yyyrr": {
+            "guess": "abhor",
+            "yyryy": {
+                "guess": "cobra"
+            }
+        },
+        "rygyr": {
+            "guess": "acorn"
+        },
+        "ryrrg": {
+            "guess": "aahed",
+            "grrrg": {
+                "guess": "acrid"
+            },
+            "gyrrg": {
+                "guess": "award"
+            },
+            "yryrg": {
+                "guess": "chard"
+            },
+            "yrrrg": {
+                "guess": "guard"
+            }
+        },
+        "rrryy": {
+            "guess": "admin"
+        },
+        "rygyy": {
+            "guess": "adorn"
+        },
+        "rrrrr": {
+            "guess": "amuck",
+            "grrrr": {
+                "guess": "affix"
+            },
+            "yrryr": {
+                "guess": "chaff"
+            },
+            "yyryr": {
+                "guess": "champ"
+            },
+            "yryrr": {
+                "guess": "guava"
+            },
+            "yrrry": {
+                "guess": "khaki"
+            },
+            "yrrrr": {
+                "guess": "pizza"
+            },
+            "yrygg": {
+                "guess": "quack"
+            },
+            "yrrgg": {
+                "guess": "whack"
+            }
+        },
+        "rrryr": {
+            "guess": "abaca",
+            "grgrr": {
+                "guess": "again"
+            },
+            "gryrr": {
+                "guess": "avian"
+            },
+            "rrgyr": {
+                "guess": "chain"
+            },
+            "yrrrr": {
+                "guess": "human"
+            },
+            "rrggr": {
+                "guess": "knack"
+            },
+            "rrrrg": {
+                "guess": "ninja"
+            }
+        },
+        "rrrgr": {
+            "guess": "aapas",
+            "grrrr": {
+                "guess": "aging"
+            },
+            "gryrr": {
+                "guess": "aping"
+            },
+            "yrrrr": {
+                "guess": "china"
+            }
+        },
+        "rrggr": {
+            "guess": "agony",
+            "gyggr": {
+                "guess": "among"
+            }
+        },
+        "rygrr": {
+            "guess": "agora"
+        },
+        "ryryr": {
+            "guess": "angry"
+        },
+        "rryyr": {
+            "guess": "aalii",
+            "grrrr": {
+                "guess": "annoy"
+            },
+            "grryr": {
+                "guess": "axion"
+            },
+            "yrrrr": {
+                "guess": "woman"
+            }
+        },
+        "rrrrg": {
+            "guess": "aphid"
+        },
+        "ryyyr": {
+            "guess": "apron"
+        },
+        "ygyrr": {
+            "guess": "arbor"
+        },
+        "rgyry": {
+            "guess": "ardor"
+        },
+        "rgyrr": {
+            "guess": "armor",
+            "ggrgy": {
+                "guess": "arrow"
+            }
+        },
+        "rggrr": {
+            "guess": "aroma",
+            "yggrr": {
+                "guess": "croak"
+            }
+        },
+        "rgrrr": {
+            "guess": "copay",
+            "rrrgg": {
+                "guess": "array"
+            },
+            "grryr": {
+                "guess": "crack"
+            },
+            "gryyr": {
+                "guess": "cramp"
+            },
+            "grryg": {
+                "guess": "crazy"
+            },
+            "rrrgr": {
+                "guess": "friar"
+            },
+            "rryyr": {
+                "guess": "graph"
+            },
+            "rrryg": {
+                "guess": "gravy"
+            },
+            "yrryr": {
+                "guess": "wrack"
+            }
+        },
+        "rryry": {
+            "guess": "aargh",
+            "grrrr": {
+                "guess": "audio"
+            },
+            "yrryr": {
+                "guess": "dogma"
+            },
+            "yrrrr": {
+                "guess": "vodka"
+            }
+        },
+        "ryrrr": {
+            "guess": "chair",
+            "rryrg": {
+                "guess": "augur"
+            },
+            "gggry": {
+                "guess": "charm"
+            },
+            "gryyg": {
+                "guess": "cigar"
+            },
+            "gryyy": {
+                "guess": "circa"
+            },
+            "rrgry": {
+                "guess": "quark"
+            },
+            "yryyg": {
+                "guess": "vicar"
+            },
+            "rggry": {
+                "guess": "wharf"
+            }
+        },
+        "rrgrg": {
+            "guess": "avoid"
+        },
+        "rryrr": {
+            "guess": "abamp",
+            "grryr": {
+                "guess": "axiom"
+            },
+            "rrgrr": {
+                "guess": "coach"
+            },
+            "yrrrr": {
+                "guess": "cocoa"
+            },
+            "yrrgr": {
+                "guess": "comma"
+            },
+            "rrggr": {
+                "guess": "foamy"
+            },
+            "yrryr": {
+                "guess": "mocha"
+            }
+        },
+        "gyyrg": {
+            "guess": "board"
+        },
+        "gyyrr": {
+            "guess": "borax"
+        },
+        "ggrrg": {
+            "guess": "braid"
+        },
+        "ggryr": {
+            "guess": "brain",
+            "gggrg": {
+                "guess": "brawn"
+            }
+        },
+        "ggrgg": {
+            "guess": "brand"
+        },
+        "ggyrr": {
+            "guess": "bravo"
+        },
+        "ggrrr": {
+            "guess": "briar"
+        },
+        "gggrg": {
+            "guess": "broad"
+        },
+        "rgrgr": {
+            "guess": "afanc",
+            "rrggy": {
+                "guess": "crank"
+            },
+            "ryggr": {
+                "guess": "frank"
+            },
+            "rrggr": {
+                "guess": "prank"
+            }
+        },
+        "ryrry": {
+            "guess": "diary",
+            "grggr": {
+                "guess": "dwarf"
+            }
+        },
+        "rgryy": {
+            "guess": "drain",
+            "gggrg": {
+                "guess": "drawn"
+            }
+        },
+        "rgrry": {
+            "guess": "drama"
+        },
+        "rgrgy": {
+            "guess": "drank"
+        },
+        "ryyrr": {
+            "guess": "aargh",
+            "yrgrr": {
+                "guess": "foray"
+            },
+            "yryrr": {
+                "guess": "ovary"
+            },
+            "yryrg": {
+                "guess": "roach"
+            }
+        },
+        "rgrrg": {
+            "guess": "fraud"
+        },
+        "rryyg": {
+            "guess": "gonad",
+            "rgygg": {
+                "guess": "nomad"
+            }
+        },
+        "rgryr": {
+            "guess": "grain",
+            "rggrg": {
+                "guess": "prawn"
+            }
+        },
+        "rgrgg": {
+            "guess": "grand"
+        },
+        "rggyr": {
+            "guess": "groan"
+        },
+        "ryyrg": {
+            "guess": "hoard"
+        },
+        "rgyyr": {
+            "guess": "organ"
+        },
+        "rrygr": {
+            "guess": "piano"
+        },
+        "yyrrr": {
+            "guess": "rumba",
+            "yyyyg": {
+                "guess": "umbra"
+            }
+        },
+        "ygryr": {
+            "guess": "urban"
+        }
+    },
+    "yyryr": {
+        "guess": "auric",
+        "grrrr": {
+            "guess": "abase"
+        },
+        "gyrrr": {
+            "guess": "abuse",
+            "grggg": {
+                "guess": "amuse"
+            }
+        },
+        "gryyr": {
+            "guess": "arise"
+        },
+        "gryrr": {
+            "guess": "arose"
+        },
+        "grryr": {
+            "guess": "aside"
+        },
+        "yrrry": {
+            "guess": "cease",
+            "grggg": {
+                "guess": "chase"
+            }
+        },
+        "yryrr": {
+            "guess": "erase"
+        },
+        "yrrrr": {
+            "guess": "essay",
+            "yyryr": {
+                "guess": "phase"
+            }
+        },
+        "yyrrr": {
+            "guess": "usage"
+        }
+    },
+    "ryryy": {
+        "guess": "grace",
+        "rrgrg": {
+            "guess": "abate",
+            "rrggg": {
+                "guess": "ovate"
+            }
+        },
+        "rryyg": {
+            "guess": "acute"
+        },
+        "yrgrg": {
+            "guess": "agate"
+        },
+        "rryrg": {
+            "guess": "atone"
+        },
+        "rggyg": {
+            "guess": "crate"
+        },
+        "rrgry": {
+            "guess": "aahed",
+            "yryyy": {
+                "guess": "death"
+            },
+            "yryyr": {
+                "guess": "heath"
+            },
+            "yrryr": {
+                "guess": "meaty"
+            }
+        },
+        "ryyry": {
+            "guess": "extra",
+            "yrygg": {
+                "guess": "terra"
+            }
+        },
+        "gggrg": {
+            "guess": "grate"
+        },
+        "rggrg": {
+            "guess": "irate",
+            "rggyg": {
+                "guess": "trade"
+            }
+        },
+        "rrggy": {
+            "guess": "teach"
+        },
+        "rygry": {
+            "guess": "teary"
+        },
+        "rryry": {
+            "guess": "theta",
+            "grgry": {
+                "guess": "tweak"
+            }
+        },
+        "rgggg": {
+            "guess": "trace"
+        },
+        "rgyry": {
+            "guess": "tread"
+        }
+    },
+    "ryrgr": {
+        "guess": "borna",
+        "yrrry": {
+            "guess": "abbey"
+        },
+        "rrgry": {
+            "guess": "agree"
+        },
+        "rryry": {
+            "guess": "aider"
+        },
+        "yryry": {
+            "guess": "amber"
+        },
+        "rryyy": {
+            "guess": "anger"
+        },
+        "rrryy": {
+            "guess": "annex"
+        },
+        "rrryg": {
+            "guess": "apnea"
+        }
+    },
+    "ryrrg": {
+        "guess": "crudo",
+        "rrrry": {
+            "guess": "abbot",
+            "grrgg": {
+                "guess": "afoot"
+            }
+        },
+        "ryrry": {
+            "guess": "abort"
+        },
+        "rryry": {
+            "guess": "about"
+        },
+        "rrryr": {
+            "guess": "adapt",
+            "ggrrg": {
+                "guess": "admit"
+            }
+        },
+        "rrryy": {
+            "guess": "adopt"
+        },
+        "ryrrr": {
+            "guess": "apart"
+        },
+        "rryyr": {
+            "guess": "audit"
+        },
+        "rrrrr": {
+            "guess": "await",
+            "rrgyg": {
+                "guess": "giant"
+            }
+        },
+        "grrrr": {
+            "guess": "chant"
+        },
+        "gyrrr": {
+            "guess": "chart"
+        },
+        "ggrrr": {
+            "guess": "craft"
+        },
+        "rgryr": {
+            "guess": "draft"
+        },
+        "rgrrr": {
+            "guess": "abeng",
+            "yrrry": {
+                "guess": "graft"
+            },
+            "yrrgy": {
+                "guess": "grant"
+            },
+            "yrrrr": {
+                "guess": "trait"
+            }
+        },
+        "ryyrr": {
+            "guess": "quart"
+        },
+        "ygrrr": {
+            "guess": "tract"
+        }
+    },
+    "ryggr": {
+        "guess": "abled",
+        "grggr": {
+            "guess": "alley"
+        }
+    },
+    "ryryr": {
+        "guess": "beard",
+        "yyyry": {
+            "guess": "abaci",
+            "ggrry": {
+                "guess": "abide"
+            },
+            "ggrrr": {
+                "guess": "abode"
+            },
+            "gyrrr": {
+                "guess": "adobe"
+            }
+        },
+        "yyyrr": {
+            "guess": "above"
+        },
+        "rygry": {
+            "guess": "adage",
+            "rygrg": {
+                "guess": "evade"
+            }
+        },
+        "ryygy": {
+            "guess": "adore"
+        },
+        "ryygr": {
+            "guess": "aalii",
+            "grryr": {
+                "guess": "afire"
+            },
+            "grrrr": {
+                "guess": "azure"
+            },
+            "yrrrr": {
+                "guess": "opera"
+            }
+        },
+        "rygrr": {
+            "guess": "aking",
+            "grrry": {
+                "guess": "agape"
+            },
+            "grrrr": {
+                "guess": "amaze"
+            },
+            "gyrrr": {
+                "guess": "awake"
+            },
+            "yrrrr": {
+                "guess": "chafe"
+            },
+            "yryry": {
+                "guess": "image"
+            },
+            "yrygr": {
+                "guess": "inane"
+            },
+            "yyryr": {
+                "guess": "knave"
+            },
+            "yyrrr": {
+                "guess": "quake"
+            }
+        },
+        "ryyrg": {
+            "guess": "aahed",
+            "gyyyg": {
+                "guess": "ahead"
+            },
+            "grryg": {
+                "guess": "amend"
+            },
+            "yrryg": {
+                "guess": "knead"
+            }
+        },
+        "ryyrr": {
+            "guess": "aboma",
+            "grrgr": {
+                "guess": "anime"
+            },
+            "grgrr": {
+                "guess": "awoke"
+            },
+            "yrrrr": {
+                "guess": "cheap"
+            },
+            "rrrgg": {
+                "guess": "enema"
+            },
+            "rrrrg": {
+                "guess": "hyena"
+            },
+            "yryrr": {
+                "guess": "ocean"
+            },
+            "rryyg": {
+                "guess": "omega"
+            }
+        },
+        "ryyry": {
+            "guess": "anode"
+        },
+        "ryyyr": {
+            "guess": "fleck",
+            "rrgrr": {
+                "guess": "arena"
+            },
+            "rryrr": {
+                "guess": "argue"
+            },
+            "rrgyg": {
+                "guess": "creak"
+            },
+            "rrgyr": {
+                "guess": "cream"
+            },
+            "grgrg": {
+                "guess": "freak"
+            },
+            "rrgrg": {
+                "guess": "wreak"
+            }
+        },
+        "ryggr": {
+            "guess": "aware"
+        },
+        "gggrr": {
+            "guess": "beach"
+        },
+        "gggry": {
+            "guess": "beady"
+        },
+        "ggyrr": {
+            "guess": "began"
+        },
+        "gygyr": {
+            "guess": "aback",
+            "ryggr": {
+                "guess": "brace"
+            },
+            "rygry": {
+                "guess": "brake"
+            },
+            "rygrr": {
+                "guess": "brave"
+            }
+        },
+        "gyyyg": {
+            "guess": "bread"
+        },
+        "gyyyr": {
+            "guess": "break"
+        },
+        "rgyyy": {
+            "guess": "cedar"
+        },
+        "rygyr": {
+            "guess": "cezve",
+            "grrrg": {
+                "guess": "crane"
+            },
+            "grrgg": {
+                "guess": "crave"
+            },
+            "gryrg": {
+                "guess": "craze"
+            },
+            "rrrrg": {
+                "guess": "frame",
+                "rggrg": {
+                    "guess": "grape"
+                }
+            },
+            "yrrrg": {
+                "guess": "grace"
+            },
+            "rrrgg": {
+                "guess": "grave"
+            },
+            "rryrg": {
+                "guess": "graze"
+            }
+        },
+        "ygyyy": {
+            "guess": "debar"
+        },
+        "rgyry": {
+            "guess": "decay",
+            "ygryr": {
+                "guess": "media"
+            }
+        },
+        "rygyy": {
+            "guess": "agape",
+            "rrgrg": {
+                "guess": "drake"
+            },
+            "rrggg": {
+                "guess": "drape"
+            },
+            "rygrg": {
+                "guess": "grade"
+            }
+        },
+        "ryyyg": {
+            "guess": "dread"
+        },
+        "ryyyy": {
+            "guess": "dream"
+        },
+        "rggry": {
+            "guess": "heady"
+        },
+        "rgggg": {
+            "guess": "heard"
+        },
+        "rggrr": {
+            "guess": "achey",
+            "yryyr": {
+                "guess": "heave"
+            },
+            "yryyg": {
+                "guess": "heavy"
+            },
+            "yyryr": {
+                "guess": "peace"
+            },
+            "yyyyr": {
+                "guess": "peach"
+            },
+            "yrryr": {
+                "guess": "weave"
+            }
+        },
+        "ygyrr": {
+            "guess": "kebab"
+        },
+        "rgyrr": {
+            "guess": "aapas",
+            "yrrrr": {
+                "guess": "mecca"
+            },
+            "rrygr": {
+                "guess": "pecan"
+            },
+            "rrrgr": {
+                "guess": "vegan"
+            }
+        },
+        "rggyr": {
+            "guess": "reach"
+        },
+        "rggyy": {
+            "guess": "ready"
+        },
+        "rgggr": {
+            "guess": "abbey",
+            "yrryr": {
+                "guess": "rearm"
+            },
+            "yrryg": {
+                "guess": "weary"
+            },
+            "yrryy": {
+                "guess": "yearn"
+            }
+        },
+        "ygyyr": {
+            "guess": "rebar",
+            "ggygr": {
+                "guess": "rehab"
+            }
+        },
+        "rgyyr": {
+            "guess": "recap",
+            "ggrgy": {
+                "guess": "repay"
+            }
+        },
+        "ygygr": {
+            "guess": "zebra"
+        }
+    },
+    "yyrrr": {
+        "guess": "crags",
+        "rryrg": {
+            "guess": "abyss",
+            "grrgg": {
+                "guess": "amiss"
+            }
+        },
+        "rrgrg": {
+            "guess": "amass"
+        },
+        "rgyry": {
+            "guess": "arson"
+        },
+        "rryry": {
+            "guess": "assay"
+        },
+        "rrgry": {
+            "guess": "aahed",
+            "gyyrr": {
+                "guess": "awash"
+            },
+            "yryrr": {
+                "guess": "quash"
+            },
+            "yrrrr": {
+                "guess": "quasi"
+            }
+        },
+        "rggry": {
+            "guess": "brash"
+        },
+        "rggrg": {
+            "guess": "brass"
+        },
+        "grgrg": {
+            "guess": "chaos"
+        },
+        "grgry": {
+            "guess": "chasm"
+        },
+        "gggry": {
+            "guess": "crash"
+        },
+        "gggrg": {
+            "guess": "crass"
+        },
+        "rrgyy": {
+            "guess": "gnash"
+        },
+        "rggyy": {
+            "guess": "grasp"
+        },
+        "rggyg": {
+            "guess": "grass"
+        }
+    },
+    "ryrry": {
+        "guess": "conia",
+        "yyrry": {
+            "guess": "actor"
+        },
+        "rrryy": {
+            "guess": "amity",
+            "yrgyr": {
+                "guess": "triad"
+            }
+        },
+        "yrygy": {
+            "guess": "antic"
+        },
+        "rgrrg": {
+            "guess": "aorta"
+        },
+        "yrrgy": {
+            "guess": "attic"
+        },
+        "rrgry": {
+            "guess": "aunty"
+        },
+        "rrgrg": {
+            "guess": "junta"
+        },
+        "ryrrg": {
+            "guess": "quota"
+        },
+        "rryry": {
+            "guess": "thank",
+            "grggr": {
+                "guess": "twang"
+            }
+        },
+        "rrryg": {
+            "guess": "tiara"
+        },
+        "rrrgg": {
+            "guess": "tibia"
+        },
+        "rryyy": {
+            "guess": "titan"
+        },
+        "rgrry": {
+            "guess": "today",
+            "ggrgr": {
+                "guess": "topaz"
+            }
+        },
+        "rggrg": {
+            "guess": "tonga"
+        },
+        "yrrry": {
+            "guess": "track"
+        },
+        "rrygy": {
+            "guess": "train"
+        },
+        "rrrry": {
+            "guess": "tramp",
+            "yggrr": {
+                "guess": "wrath"
+            }
+        }
+    },
+    "ryryg": {
+        "guess": "cedar",
+        "ryyyr": {
+            "guess": "adept"
+        },
+        "ryryr": {
+            "guess": "agent"
+        },
+        "ryryy": {
+            "guess": "avert"
+        },
+        "rgrgr": {
+            "guess": "begat"
+        },
+        "gyrgr": {
+            "guess": "cheat"
+        },
+        "yyryr": {
+            "guess": "enact",
+            "grggg": {
+                "guess": "exact"
+            }
+        },
+        "ryrgy": {
+            "guess": "great",
+            "rgggg": {
+                "guess": "treat"
+            }
+        },
+        "rgryy": {
+            "guess": "heart"
+        },
+        "rgryr": {
+            "guess": "meant"
+        },
+        "ygryy": {
+            "guess": "react"
+        },
+        "ryrgr": {
+            "guess": "wheat"
+        }
+    },
+    "ryyrg": {
+        "guess": "fling",
+        "ryrrr": {
+            "guess": "adult"
+        },
+        "ygrrr": {
+            "guess": "aloft"
+        },
+        "rgrrr": {
+            "guess": "bloat"
+        },
+        "ggrrr": {
+            "guess": "float"
+        },
+        "rgrry": {
+            "guess": "gloat"
+        },
+        "rgyrr": {
+            "guess": "plait"
+        },
+        "rgrgr": {
+            "guess": "plant"
+        }
+    },
+    "ryyrr": {
+        "guess": "corni",
+        "ryrrr": {
+            "guess": "abjud",
+            "grrgr": {
+                "guess": "afoul"
+            },
+            "grrrr": {
+                "guess": "aloof"
+            },
+            "grrgg": {
+                "guess": "aloud"
+            },
+            "yrrrr": {
+                "guess": "offal"
+            }
+        },
+        "rryrr": {
+            "guess": "aahed",
+            "gyrrr": {
+                "guess": "alarm"
+            },
+            "yrrrr": {
+                "guess": "brawl"
+            },
+            "yrrry": {
+                "guess": "drawl"
+            }
+        },
+        "rrrrr": {
+            "guess": "abamp",
+            "gyryr": {
+                "guess": "album"
+            },
+            "gryry": {
+                "guess": "alpha"
+            },
+            "grryy": {
+                "guess": "amply"
+            },
+            "grrry": {
+                "guess": "apply"
+            },
+            "grrrr": {
+                "guess": "awful"
+            },
+            "rrgrr": {
+                "guess": "flaky"
+            },
+            "yrggr": {
+                "guess": "llama"
+            },
+            "yrgry": {
+                "guess": "plaza"
+            },
+            "yrrry": {
+                "guess": "pupal"
+            },
+            "rrgyr": {
+                "guess": "qualm"
+            }
+        },
+        "rrrrg": {
+            "guess": "alibi"
+        },
+        "rrryy": {
+            "guess": "aalii",
+            "gryyr": {
+                "guess": "align"
+            },
+            "grygr": {
+                "guess": "anvil"
+            },
+            "yryyr": {
+                "guess": "final"
+            },
+            "yrygr": {
+                "guess": "plain"
+            }
+        },
+        "ryrgr": {
+            "guess": "along"
+        },
+        "rrryr": {
+            "guess": "annul"
+        },
+        "rrrry": {
+            "guess": "adieu",
+            "gryrr": {
+                "guess": "avail"
+            },
+            "grgrr": {
+                "guess": "axial"
+            },
+            "yryrr": {
+                "guess": "flail"
+            },
+            "yyyrr": {
+                "guess": "plaid"
+            },
+            "yryry": {
+                "guess": "quail"
+            }
+        },
+        "yrrrr": {
+            "guess": "black",
+            "rgggg": {
+                "guess": "flack"
+            }
+        },
+        "rrrgr": {
+            "guess": "bifid",
+            "grrrg": {
+                "guess": "bland"
+            },
+            "grrrr": {
+                "guess": "blank"
+            },
+            "rryrr": {
+                "guess": "flank"
+            },
+            "rrrrg": {
+                "guess": "gland"
+            },
+            "rrrrr": {
+                "guess": "plank"
+            }
+        },
+        "grrrr": {
+            "guess": "aback",
+            "rrgyg": {
+                "guess": "chalk"
+            },
+            "rrggg": {
+                "guess": "clack"
+            },
+            "rrgyr": {
+                "guess": "clamp"
+            }
+        },
+        "grrry": {
+            "guess": "claim"
+        },
+        "grrgr": {
+            "guess": "clang",
+            "ggggr": {
+                "guess": "clank"
+            }
+        },
+        "gyrrr": {
+            "guess": "cloak"
+        },
+        "gggrr": {
+            "guess": "coral"
+        },
+        "gryrr": {
+            "guess": "crawl"
+        },
+        "rryry": {
+            "guess": "afear",
+            "yyrrg": {
+                "guess": "flair"
+            },
+            "yyrry": {
+                "guess": "frail"
+            },
+            "yrrry": {
+                "guess": "grail"
+            },
+            "rrrgy": {
+                "guess": "rival"
+            }
+        },
+        "ryyrr": {
+            "guess": "flora"
+        },
+        "ygrrr": {
+            "guess": "falls",
+            "gyyrr": {
+                "guess": "focal"
+            },
+            "ryyyr": {
+                "guess": "local"
+            },
+            "ryyrr": {
+                "guess": "vocal"
+            }
+        },
+        "yrrry": {
+            "guess": "iliac"
+        },
+        "rgrrr": {
+            "guess": "abamp",
+            "yrgrr": {
+                "guess": "koala"
+            },
+            "rrggr": {
+                "guess": "loamy"
+            },
+            "yrrrr": {
+                "guess": "loyal"
+            },
+            "yrryr": {
+                "guess": "modal"
+            }
+        },
+        "rryyr": {
+            "guess": "lunar"
+        },
+        "rggrr": {
+            "guess": "moral"
+        },
+        "rrgrr": {
+            "guess": "mural",
+            "rgggg": {
+                "guess": "rural"
+            }
+        },
+        "rgyrr": {
+            "guess": "royal"
+        },
+        "ryrry": {
+            "guess": "viola"
+        },
+        "rrgry": {
+            "guess": "viral"
+        },
+        "rgrry": {
+            "guess": "voila"
+        },
+        "rgryr": {
+            "guess": "zonal"
+        }
+    },
+    "ryrgy": {
+        "guess": "after"
+    },
+    "ryyyr": {
+        "guess": "glare",
+        "yyyrg": {
+            "guess": "agile",
+            "gyrgg": {
+                "guess": "angle"
+            }
+        },
+        "ygyrg": {
+            "guess": "algae"
+        },
+        "rgyrg": {
+            "guess": "above",
+            "grrrg": {
+                "guess": "alike"
+            },
+            "grrgg": {
+                "guess": "alive"
+            },
+            "grgrg": {
+                "guess": "alone"
+            }
+        },
+        "ryyrg": {
+            "guess": "abamp",
+            "gyryr": {
+                "guess": "amble"
+            },
+            "grryy": {
+                "guess": "ample"
+            },
+            "grrrr": {
+                "guess": "ankle"
+            },
+            "grrry": {
+                "guess": "apple"
+            }
+        },
+        "rggrg": {
+            "guess": "abamp",
+            "rygrr": {
+                "guess": "blade",
+                "gggrg": {
+                    "guess": "blaze"
+                }
+            },
+            "ryggr": {
+                "guess": "blame"
+            },
+            "rrgrr": {
+                "guess": "flake"
+            },
+            "rrggr": {
+                "guess": "flame"
+            },
+            "rrgry": {
+                "guess": "place",
+                "gggrg": {
+                    "guess": "plane"
+                }
+            }
+        },
+        "rgggg": {
+            "guess": "blare",
+            "rgggg": {
+                "guess": "flare"
+            }
+        },
+        "rgyry": {
+            "guess": "abaca",
+            "yyrrr": {
+                "guess": "bleak"
+            },
+            "yrryr": {
+                "guess": "clean"
+            },
+            "yrrrr": {
+                "guess": "plead"
+            }
+        },
+        "rgyyy": {
+            "guess": "clear"
+        },
+        "ryyry": {
+            "guess": "cupid",
+            "yrrry": {
+                "guess": "decal"
+            },
+            "ryrrr": {
+                "guess": "equal"
+            },
+            "yrrrr": {
+                "guess": "fecal"
+            },
+            "rrryy": {
+                "guess": "ideal"
+            },
+            "rrrry": {
+                "guess": "medal"
+            },
+            "rryry": {
+                "guess": "pedal"
+            },
+            "rryrr": {
+                "guess": "penal"
+            }
+        },
+        "rygry": {
+            "guess": "amuck",
+            "ygrrr": {
+                "guess": "email"
+            },
+            "yrrgr": {
+                "guess": "leach"
+            },
+            "yrrrr": {
+                "guess": "leafy"
+            },
+            "yrrry": {
+                "guess": "leaky"
+            },
+            "yyrrr": {
+                "guess": "mealy"
+            }
+        },
+        "ryyyy": {
+            "guess": "feral",
+            "rgygg": {
+                "guess": "renal"
+            }
+        },
+        "gggrg": {
+            "guess": "glade",
+            "gggrg": {
+                "guess": "glaze"
+            }
+        },
+        "ggyry": {
+            "guess": "gleam",
+            "ggggr": {
+                "guess": "glean"
+            }
+        },
+        "ryggy": {
+            "guess": "learn",
+            "ygggr": {
+                "guess": "pearl"
+            }
+        },
+        "rygrg": {
+            "guess": "leave",
+            "yrgrg": {
+                "guess": "whale"
+            }
+        },
+        "yyyry": {
+            "guess": "legal"
+        },
+        "rygyy": {
+            "guess": "realm"
+        },
+        "yyyyy": {
+            "guess": "regal"
+        }
+    },
+    "rygrr": {
+        "guess": "aliya",
+        "gyrrr": {
+            "guess": "aglow"
+        },
+        "ggryy": {
+            "guess": "allay"
+        },
+        "ggrrr": {
+            "guess": "allow"
+        },
+        "ggryr": {
+            "guess": "alloy"
+        },
+        "yyryr": {
+            "guess": "bylaw"
+        },
+        "yyyyr": {
+            "guess": "inlay"
+        },
+        "yyyrr": {
+            "guess": "lilac"
+        },
+        "yyrrr": {
+            "guess": "molar",
+            "rgggg": {
+                "guess": "polar"
+            }
+        },
+        "ryrrg": {
+            "guess": "polka"
+        },
+        "ryyrg": {
+            "guess": "villa"
+        }
+    },
+    "yyyyr": {
+        "guess": "aahed",
+        "grryr": {
+            "guess": "aisle"
+        },
+        "yrryr": {
+            "guess": "lease"
+        },
+        "yryyr": {
+            "guess": "leash"
+        }
+    },
+    "ryyyg": {
+        "guess": "pecan",
+        "ryryr": {
+            "guess": "alert",
+            "yyyrg": {
+                "guess": "exalt"
+            }
+        },
+        "ryrgr": {
+            "guess": "bleat"
+        },
+        "ryygr": {
+            "guess": "cleat"
+        },
+        "rgryr": {
+            "guess": "dealt"
+        },
+        "rgryy": {
+            "guess": "leant"
+        },
+        "ygryr": {
+            "guess": "leapt"
+        },
+        "gyrgr": {
+            "guess": "pleat"
+        }
+    },
+    "ryygr": {
+        "guess": "alien",
+        "gyrgy": {
+            "guess": "angel"
+        }
+    },
+    "rygrg": {
+        "guess": "allot"
+    },
+    "ryyry": {
+        "guess": "potai",
+        "rrggr": {
+            "guess": "altar"
+        },
+        "yrgyr": {
+            "guess": "aptly"
+        },
+        "ryyyr": {
+            "guess": "atoll"
+        },
+        "rgyyr": {
+            "guess": "loath"
+        },
+        "ryggr": {
+            "guess": "octal"
+        },
+        "rrygy": {
+            "guess": "tidal",
+            "gyrgg": {
+                "guess": "trial"
+            }
+        },
+        "rgygr": {
+            "guess": "tonal"
+        },
+        "rgggr": {
+            "guess": "total"
+        },
+        "rryyy": {
+            "guess": "trail"
+        },
+        "rryyr": {
+            "guess": "trawl"
+        },
+        "rrygr": {
+            "guess": "tubal"
+        },
+        "rrgyr": {
+            "guess": "ultra"
+        },
+        "rrggy": {
+            "guess": "vital"
+        }
+    },
+    "ryygy": {
+        "guess": "alter"
+    },
+    "yyrrg": {
+        "guess": "acerb",
+        "grrrr": {
+            "guess": "angst"
+        },
+        "gyrrr": {
+            "guess": "ascot"
+        },
+        "yrrry": {
+            "guess": "boast"
+        },
+        "yyrrr": {
+            "guess": "coast"
+        },
+        "yrryr": {
+            "guess": "roast"
+        },
+        "yrrrr": {
+            "guess": "toast"
+        }
+    },
+    "yyrry": {
+        "guess": "aahed",
+        "grrrr": {
+            "guess": "artsy"
+        },
+        "yryrr": {
+            "guess": "trash"
+        },
+        "yrrrr": {
+            "guess": "vista"
+        }
+    },
+    "yyrgr": {
+        "guess": "ashen",
+        "ggrgr": {
+            "guess": "askew"
+        }
+    },
+    "yyrgg": {
+        "guess": "asset"
+    },
+    "rgrrr": {
+        "guess": "corny",
+        "yyryr": {
+            "guess": "bacon"
+        },
+        "rrrrg": {
+            "guess": "podge",
+            "rrrgr": {
+                "guess": "baggy"
+            },
+            "rryrr": {
+                "guess": "bawdy"
+            },
+            "rrgrr": {
+                "guess": "daddy"
+            },
+            "rryyr": {
+                "guess": "gaudy"
+            },
+            "rrryr": {
+                "guess": "gawky"
+            },
+            "yrrrr": {
+                "guess": "happy"
+            },
+            "rrrrr": {
+                "guess": "jazzy",
+                "rgrrg": {
+                    "guess": "mammy"
+                }
+            },
+            "grgrr": {
+                "guess": "paddy"
+            }
+        },
+        "ryryr": {
+            "guess": "aargh",
+            "rgrrr": {
+                "guess": "banjo"
+            },
+            "rgrgr": {
+                "guess": "mango"
+            },
+            "rgryr": {
+                "guess": "wagon"
+            }
+        },
+        "rygyr": {
+            "guess": "baron"
+        },
+        "ryrry": {
+            "guess": "bayou"
+        },
+        "grrrg": {
+            "guess": "cabby",
+            "ggrrg": {
+                "guess": "caddy"
+            }
+        },
+        "grryr": {
+            "guess": "cabin"
+        },
+        "gyrrr": {
+            "guess": "cacao"
+        },
+        "gryyr": {
+            "guess": "cairn"
+        },
+        "grryg": {
+            "guess": "candy"
+        },
+        "grrgg": {
+            "guess": "canny"
+        },
+        "gyryr": {
+            "guess": "canon"
+        },
+        "gygrr": {
+            "guess": "cargo"
+        },
+        "grgrg": {
+            "guess": "carry"
+        },
+        "rryrg": {
+            "guess": "aahed",
+            "rgrry": {
+                "guess": "dairy"
+            },
+            "rgrrr": {
+                "guess": "fairy"
+            },
+            "rgyrr": {
+                "guess": "hairy"
+            }
+        },
+        "rrryg": {
+            "guess": "aahed",
+            "rgrry": {
+                "guess": "dandy"
+            },
+            "rgyry": {
+                "guess": "handy"
+            },
+            "rgrrr": {
+                "guess": "mangy"
+            }
+        },
+        "yrryg": {
+            "guess": "fancy"
+        },
+        "rrrgg": {
+            "guess": "fanny",
+            "rgggg": {
+                "guess": "nanny"
+            }
+        },
+        "rrrgr": {
+            "guess": "fauna"
+        },
+        "ryyrr": {
+            "guess": "flimp",
+            "grrrr": {
+                "guess": "favor"
+            },
+            "rrryr": {
+                "guess": "major"
+            },
+            "rryrr": {
+                "guess": "radio"
+            },
+            "rrrrr": {
+                "guess": "razor"
+            },
+            "rrrry": {
+                "guess": "vapor"
+            }
+        },
+        "rrrrr": {
+            "guess": "agmas",
+            "yygyr": {
+                "guess": "gamma"
+            },
+            "yrryr": {
+                "guess": "kappa"
+            },
+            "yrygr": {
+                "guess": "madam"
+            },
+            "yryyr": {
+                "guess": "mafia"
+            },
+            "yyyyr": {
+                "guess": "magma"
+            },
+            "yrgyr": {
+                "guess": "mamma"
+            },
+            "yryrr": {
+                "guess": "maxim"
+            },
+            "yrrrr": {
+                "guess": "vapid"
+            }
+        },
+        "rrgrg": {
+            "guess": "aphid",
+            "yryry": {
+                "guess": "hardy"
+            },
+            "yyyrr": {
+                "guess": "harpy"
+            },
+            "yryrr": {
+                "guess": "harry"
+            },
+            "yrrrr": {
+                "guess": "marry"
+            },
+            "yyrrr": {
+                "guess": "parry"
+            }
+        },
+        "yyrrr": {
+            "guess": "havoc",
+            "ygryy": {
+                "guess": "macho"
+            }
+        },
+        "rrgrr": {
+            "guess": "karma",
+            "yggrg": {
+                "guess": "parka"
+            }
+        },
+        "rrrry": {
+            "guess": "kayak"
+        },
+        "yrrrr": {
+            "guess": "macaw",
+            "ggyrr": {
+                "guess": "magic"
+            }
+        },
+        "yyyrr": {
+            "guess": "macro"
+        },
+        "ryrrr": {
+            "guess": "mambo"
+        },
+        "rrryr": {
+            "guess": "aargh",
+            "ygrgr": {
+                "guess": "manga"
+            },
+            "ygrrr": {
+                "guess": "mania"
+            },
+            "ygryr": {
+                "guess": "pagan"
+            }
+        },
+        "yrryr": {
+            "guess": "manic",
+            "rgggg": {
+                "guess": "panic"
+            }
+        },
+        "ryyyr": {
+            "guess": "manor"
+        },
+        "yrgrr": {
+            "guess": "march"
+        },
+        "ryyry": {
+            "guess": "mayor"
+        },
+        "rryyr": {
+            "guess": "nadir"
+        },
+        "rryrr": {
+            "guess": "aband",
+            "yyrrr": {
+                "guess": "rabbi"
+            },
+            "yyrrg": {
+                "guess": "rabid"
+            },
+            "yryry": {
+                "guess": "radar"
+            },
+            "yrrry": {
+                "guess": "radii"
+            },
+            "yryrr": {
+                "guess": "rajah"
+            },
+            "yrrrg": {
+                "guess": "rapid"
+            }
+        },
+        "rrygg": {
+            "guess": "rainy"
+        },
+        "yryyr": {
+            "guess": "ranch"
+        },
+        "rryyg": {
+            "guess": "randy"
+        },
+        "ryyyy": {
+            "guess": "rayon"
+        },
+        "yrrrg": {
+            "guess": "wacky"
+        }
+    },
+    "rgryr": {
+        "guess": "crumb",
+        "rrrry": {
+            "guess": "badge"
+        },
+        "ryrry": {
+            "guess": "barge"
+        },
+        "grrrr": {
+            "guess": "cache",
+            "ggrrg": {
+                "guess": "canoe"
+            }
+        },
+        "gyrrr": {
+            "guess": "carve"
+        },
+        "yrrrr": {
+            "guess": "dance"
+        },
+        "yyrrr": {
+            "guess": "farce"
+        },
+        "rrrrr": {
+            "guess": "abeng",
+            "yryry": {
+                "guess": "gaffe"
+            },
+            "yryyr": {
+                "guess": "naive"
+            },
+            "yryrr": {
+                "guess": "waive"
+            }
+        },
+        "rrgrr": {
+            "guess": "gauge",
+            "gggrg": {
+                "guess": "gauze"
+            }
+        },
+        "rrryr": {
+            "guess": "maize",
+            "ggrrg": {
+                "guess": "mange"
+            }
+        },
+        "rrgyr": {
+            "guess": "mauve"
+        },
+        "rrryy": {
+            "guess": "maybe"
+        },
+        "ryrrr": {
+            "guess": "range"
+        },
+        "rryrr": {
+            "guess": "vague"
+        }
+    },
+    "rgyrr": {
+        "guess": "bingy",
+        "grrrg": {
+            "guess": "badly"
+        },
+        "grgrr": {
+            "guess": "banal"
+        },
+        "yrrrr": {
+            "guess": "cabal",
+            "rggry": {
+                "guess": "labor"
+            }
+        },
+        "rrgrr": {
+            "guess": "canal"
+        },
+        "rrrrr": {
+            "guess": "aargh",
+            "rggrr": {
+                "guess": "carol"
+            },
+            "rgrrr": {
+                "guess": "caulk"
+            },
+            "yggrr": {
+                "guess": "larva"
+            },
+            "ygrrr": {
+                "guess": "papal"
+            }
+        },
+        "ryrrr": {
+            "guess": "cavil"
+        },
+        "ryrrg": {
+            "guess": "daily"
+        },
+        "ryryg": {
+            "guess": "gaily"
+        },
+        "rrryg": {
+            "guess": "gayly"
+        },
+        "rrgrg": {
+            "guess": "lanky",
+            "yggrg": {
+                "guess": "manly"
+            }
+        },
+        "rrrgr": {
+            "guess": "laugh"
+        },
+        "rrrrg": {
+            "guess": "madly"
+        },
+        "rryrr": {
+            "guess": "naval"
+        }
+    },
+    "rgygr": {
+        "guess": "lingy",
+        "yrryr": {
+            "guess": "bagel",
+            "rgygg": {
+                "guess": "gavel"
+            }
+        },
+        "yrrrr": {
+            "guess": "camel",
+            "rgrgg": {
+                "guess": "hazel"
+            }
+        },
+        "grrrr": {
+            "guess": "label",
+            "ggrgg": {
+                "guess": "lapel"
+            }
+        },
+        "gryrr": {
+            "guess": "laden"
+        },
+        "grryr": {
+            "guess": "lager"
+        },
+        "grrry": {
+            "guess": "layer"
+        },
+        "yryrr": {
+            "guess": "navel"
+        },
+        "yrgrr": {
+            "guess": "panel"
+        }
+    },
+    "rgrgr": {
+        "guess": "gormy",
+        "rryrr": {
+            "guess": "cawks",
+            "rgryr": {
+                "guess": "baker"
+            },
+            "ggrrr": {
+                "guess": "caper"
+            },
+            "rgrrr": {
+                "guess": "paper",
+                "rgrgy": {
+                    "guess": "raven"
+                }
+            },
+            "ygrrr": {
+                "guess": "racer"
+            },
+            "rgyrr": {
+                "guess": "wafer",
+                "ggrgg": {
+                    "guess": "waver"
+                }
+            }
+        },
+        "yrrrg": {
+            "guess": "cagey"
+        },
+        "ryryr": {
+            "guess": "cameo"
+        },
+        "yryrr": {
+            "guess": "eager",
+            "rgggg": {
+                "guess": "wager"
+            }
+        },
+        "gryyr": {
+            "guess": "gamer"
+        },
+        "gryry": {
+            "guess": "gayer"
+        },
+        "gryrr": {
+            "guess": "gazer"
+        },
+        "rrgyr": {
+            "guess": "harem"
+        },
+        "rrrrr": {
+            "guess": "haven",
+            "rgrgg": {
+                "guess": "waxen"
+            }
+        },
+        "rryyr": {
+            "guess": "maker",
+            "ygrgy": {
+                "guess": "ramen"
+            }
+        },
+        "ryrrr": {
+            "guess": "oaken"
+        },
+        "rrgrr": {
+            "guess": "parer",
+            "rgggg": {
+                "guess": "rarer"
+            }
+        },
+        "rrrry": {
+            "guess": "payee"
+        },
+        "rryry": {
+            "guess": "payer"
+        }
+    },
+    "rgggr": {
+        "guess": "baler",
+        "rgggg": {
+            "guess": "paler"
+        }
+    },
+    "rggrr": {
+        "guess": "ahold",
+        "yrryr": {
+            "guess": "balmy"
+        },
+        "yrrgy": {
+            "guess": "dally"
+        },
+        "yrrgr": {
+            "guess": "rally"
+        },
+        "yyryr": {
+            "guess": "ralph"
+        },
+        "yrryg": {
+            "guess": "valid"
+        },
+        "yryyr": {
+            "guess": "valor"
+        }
+    },
+    "ygyrr": {
+        "guess": "abaca",
+        "yyyrr": {
+            "guess": "basal"
+        },
+        "yyrrr": {
+            "guess": "basil"
+        },
+        "yrrrr": {
+            "guess": "lasso"
+        },
+        "yryrr": {
+            "guess": "nasal"
+        }
+    },
+    "ygrrr": {
+        "guess": "ranis",
+        "rgrgy": {
+            "guess": "basic"
+        },
+        "rgygy": {
+            "guess": "basin"
+        },
+        "rgrgg": {
+            "guess": "basis"
+        },
+        "rgryy": {
+            "guess": "daisy"
+        },
+        "rgrry": {
+            "guess": "gassy"
+        },
+        "ygrry": {
+            "guess": "harsh",
+            "rgggg": {
+                "guess": "marsh"
+            }
+        },
+        "rgyry": {
+            "guess": "mason"
+        },
+        "rggry": {
+            "guess": "pansy"
+        },
+        "ggrry": {
+            "guess": "raspy"
+        }
+    },
+    "ygryy": {
+        "guess": "bacha",
+        "ggrrr": {
+            "guess": "baste"
+        },
+        "rgyrr": {
+            "guess": "caste"
+        },
+        "rgryr": {
+            "guess": "haste"
+        },
+        "rgrrr": {
+            "guess": "attap",
+            "yyrry": {
+                "guess": "paste"
+            },
+            "yyyrr": {
+                "guess": "taste"
+            },
+            "yyrrr": {
+                "guess": "waste"
+            }
+        }
+    },
+    "rgrry": {
+        "guess": "corby",
+        "yrryr": {
+            "guess": "batch"
+        },
+        "ryryr": {
+            "guess": "baton",
+            "ygygr": {
+                "guess": "taboo"
+            }
+        },
+        "rrryg": {
+            "guess": "batty"
+        },
+        "grrrr": {
+            "guess": "cacti",
+            "ggyyr": {
+                "guess": "catch"
+            }
+        },
+        "grrrg": {
+            "guess": "catty"
+        },
+        "rrrrr": {
+            "guess": "datum",
+            "rgyrr": {
+                "guess": "faith"
+            }
+        },
+        "rrrrg": {
+            "guess": "fanny",
+            "ggrrg": {
+                "guess": "fatty"
+            },
+            "rgrrg": {
+                "guess": "patty",
+                "rgggg": {
+                    "guess": "tatty"
+                }
+            },
+            "ygrrg": {
+                "guess": "taffy"
+            },
+            "rggrg": {
+                "guess": "tangy"
+            },
+            "rgrgg": {
+                "guess": "tawny"
+            }
+        },
+        "yrrrr": {
+            "guess": "hawms",
+            "ggrrr": {
+                "guess": "hatch"
+            },
+            "ygryr": {
+                "guess": "match"
+            },
+            "ygrrr": {
+                "guess": "patch"
+            },
+            "ygyrr": {
+                "guess": "watch"
+            }
+        },
+        "rrgrg": {
+            "guess": "adapt",
+            "yrryy": {
+                "guess": "party"
+            },
+            "yyrry": {
+                "guess": "tardy"
+            },
+            "yrrry": {
+                "guess": "warty"
+            }
+        },
+        "ryrrr": {
+            "guess": "patio",
+            "rgyrg": {
+                "guess": "tango"
+            }
+        },
+        "ryyrr": {
+            "guess": "ratio"
+        },
+        "rryrg": {
+            "guess": "ratty"
+        },
+        "rrrgg": {
+            "guess": "tabby"
+        },
+        "yrrrg": {
+            "guess": "tacky"
+        },
+        "rryrr": {
+            "guess": "tapir"
+        }
+    },
+    "rgryy": {
+        "guess": "aarti",
+        "rgryr": {
+            "guess": "bathe"
+        },
+        "rgggr": {
+            "guess": "earth"
+        },
+        "rgrgr": {
+            "guess": "haute"
+        }
+    },
+    "yyryg": {
+        "guess": "abaft",
+        "rygrg": {
+            "guess": "beast"
+        },
+        "rrgyg": {
+            "guess": "feast"
+        },
+        "rrgrg": {
+            "guess": "yeast"
+        }
+    },
+    "rrryr": {
+        "guess": "drone",
+        "rrrry": {
+            "guess": "agush",
+            "rrrrg": {
+                "guess": "beech"
+            },
+            "rrrrr": {
+                "guess": "beefy"
+            },
+            "rrrry": {
+                "guess": "check"
+            },
+            "rrgrr": {
+                "guess": "equip"
+            },
+            "ryrrr": {
+                "guess": "geeky"
+            },
+            "ryrrg": {
+                "guess": "weigh"
+            }
+        },
+        "rrryy": {
+            "guess": "baith",
+            "gryrr": {
+                "guess": "begin"
+            },
+            "grrrr": {
+                "guess": "begun"
+            },
+            "grrrg": {
+                "guess": "bench"
+            },
+            "rrrrr": {
+                "guess": "enemy"
+            },
+            "rryrr": {
+                "guess": "ennui"
+            },
+            "rrgrr": {
+                "guess": "feign"
+            },
+            "rrgrg": {
+                "guess": "neigh"
+            },
+            "rrrrg": {
+                "guess": "wench"
+            }
+        },
+        "rrrgy": {
+            "guess": "abbey",
+            "ryryr": {
+                "guess": "being"
+            },
+            "rrryr": {
+                "guess": "eking"
+            },
+            "rrryy": {
+                "guess": "eying"
+            },
+            "rrryg": {
+                "guess": "penny"
+            }
+        },
+        "ryrry": {
+            "guess": "murry",
+            "rrggg": {
+                "guess": "berry",
+                "rgggg": {
+                    "guess": "ferry"
+                }
+            },
+            "rrrgg": {
+                "guess": "every",
+                "rrggg": {
+                    "guess": "fiery"
+                }
+            },
+            "yyyrr": {
+                "guess": "femur"
+            },
+            "rrgrg": {
+                "guess": "jerky",
+                "rgggg": {
+                    "guess": "perky"
+                }
+            },
+            "grgrg": {
+                "guess": "mercy"
+            },
+            "grggg": {
+                "guess": "merry"
+            },
+            "rrgrr": {
+                "guess": "perch"
+            },
+            "rgrgg": {
+                "guess": "query"
+            },
+            "ryyyr": {
+                "guess": "recur"
+            }
+        },
+        "rrryg": {
+            "guess": "finch",
+            "rggrr": {
+                "guess": "binge"
+            },
+            "grggr": {
+                "guess": "fence"
+            },
+            "rygrr": {
+                "guess": "genie"
+            },
+            "rrggy": {
+                "guess": "hence"
+            },
+            "rggry": {
+                "guess": "hinge"
+            },
+            "yyyrr": {
+                "guess": "knife"
+            },
+            "rgggr": {
+                "guess": "mince",
+                "rgggg": {
+                    "guess": "wince"
+                }
+            },
+            "rgyyy": {
+                "guess": "niche"
+            },
+            "rgygr": {
+                "guess": "niece"
+            },
+            "rrggr": {
+                "guess": "pence"
+            },
+            "rrgrr": {
+                "guess": "venue"
+            }
+        },
+        "rrgrg": {
+            "guess": "abaci",
+            "ryrry": {
+                "guess": "biome"
+            },
+            "ryrrr": {
+                "guess": "booze"
+            },
+            "rrryr": {
+                "guess": "choke"
+            },
+            "rrrrr": {
+                "guess": "evoke"
+            }
+        },
+        "ryygg": {
+            "guess": "borne"
+        },
+        "rgrrg": {
+            "guess": "campi",
+            "rrrry": {
+                "guess": "bribe"
+            },
+            "gryrr": {
+                "guess": "creme"
+            },
+            "grrgr": {
+                "guess": "crepe"
+            },
+            "gryry": {
+                "guess": "crime"
+            },
+            "rryry": {
+                "guess": "grime"
+            },
+            "rrrgy": {
+                "guess": "gripe"
+            },
+            "yrryy": {
+                "guess": "price"
+            },
+            "rryyy": {
+                "guess": "prime"
+            },
+            "rrryy": {
+                "guess": "prize"
+            }
+        },
+        "ygrrg": {
+            "guess": "abaci",
+            "ryrry": {
+                "guess": "bride"
+            },
+            "rrryr": {
+                "guess": "crude"
+            },
+            "rrrry": {
+                "guess": "pride"
+            },
+            "rrrrr": {
+                "guess": "prude"
+            }
+        },
+        "rgrgg": {
+            "guess": "abaci",
+            "ryrry": {
+                "guess": "brine"
+            },
+            "rrrrr": {
+                "guess": "prune"
+            },
+            "rrrry": {
+                "guess": "urine"
+            }
+        },
+        "rggrg": {
+            "guess": "opgaf",
+            "yrrrr": {
+                "guess": "broke"
+            },
+            "yrrry": {
+                "guess": "froze"
+            },
+            "yyyrr": {
+                "guess": "grope"
+            },
+            "yryrr": {
+                "guess": "grove"
+            },
+            "yyrrr": {
+                "guess": "probe",
+                "gggrg": {
+                    "guess": "prove"
+                }
+            }
+        },
+        "yrrrg": {
+            "guess": "bijou",
+            "grrry": {
+                "guess": "budge"
+            },
+            "ryrrr": {
+                "guess": "chide"
+            },
+            "rrrry": {
+                "guess": "fudge"
+            },
+            "ryrry": {
+                "guess": "guide"
+            },
+            "rrrrr": {
+                "guess": "hedge",
+                "rgggg": {
+                    "guess": "wedge"
+                }
+            },
+            "rryry": {
+                "guess": "judge"
+            },
+            "rgrrr": {
+                "guess": "midge"
+            }
+        },
+        "rrrrg": {
+            "guess": "coqui",
+            "grrry": {
+                "guess": "chime"
+            },
+            "rrrrr": {
+                "guess": "femme"
+            },
+            "rrrgr": {
+                "guess": "fugue"
+            },
+            "rrrgy": {
+                "guess": "imbue"
+            },
+            "yrryy": {
+                "guess": "juice"
+            },
+            "yrrry": {
+                "guess": "piece"
+            },
+            "rrggy": {
+                "guess": "pique"
+            },
+            "rrrry": {
+                "guess": "pixie"
+            },
+            "rrygr": {
+                "guess": "queue"
+            }
+        },
+        "rygrg": {
+            "guess": "chore"
+        },
+        "rryrg": {
+            "guess": "actus",
+            "ryryr": {
+                "guess": "coupe"
+            },
+            "rrryr": {
+                "guess": "gouge"
+            },
+            "rrrrr": {
+                "guess": "movie"
+            },
+            "rrrgr": {
+                "guess": "vogue"
+            },
+            "ryrrr": {
+                "guess": "voice"
+            }
+        },
+        "ygyry": {
+            "guess": "credo"
+        },
+        "rgggg": {
+            "guess": "crone",
+            "rgggg": {
+                "guess": "prone"
+            }
+        },
+        "ryrrg": {
+            "guess": "murgi",
+            "rggrr": {
+                "guess": "curve"
+            },
+            "rrgry": {
+                "guess": "eerie"
+            },
+            "rryry": {
+                "guess": "fibre"
+            },
+            "grggr": {
+                "guess": "merge"
+            },
+            "rgggr": {
+                "guess": "purge"
+            },
+            "ryyrr": {
+                "guess": "revue"
+            },
+            "yryrr": {
+                "guess": "rhyme"
+            },
+            "rrggr": {
+                "guess": "verge"
+            },
+            "rrgrr": {
+                "guess": "verve"
+            },
+            "rryrr": {
+                "guess": "where"
+            }
+        },
+        "grrry": {
+            "guess": "debug"
+        },
+        "gyyry": {
+            "guess": "decor"
+        },
+        "gryry": {
+            "guess": "decoy"
+        },
+        "gyrry": {
+            "guess": "abaca",
+            "rrryr": {
+                "guess": "decry"
+            },
+            "rrrrr": {
+                "guess": "demur"
+            },
+            "ryrrr": {
+                "guess": "derby"
+            }
+        },
+        "grryy": {
+            "guess": "deign",
+            "ggyry": {
+                "guess": "denim"
+            }
+        },
+        "gryyy": {
+            "guess": "demon"
+        },
+        "grrrg": {
+            "guess": "deuce"
+        },
+        "grgrg": {
+            "guess": "diode"
+        },
+        "gyrrg": {
+            "guess": "dirge"
+        },
+        "gryrg": {
+            "guess": "dodge"
+        },
+        "ggrrg": {
+            "guess": "drive"
+        },
+        "gggrg": {
+            "guess": "drove"
+        },
+        "grryg": {
+            "guess": "dunce"
+        },
+        "rrggy": {
+            "guess": "ebony"
+        },
+        "yrrry": {
+            "guess": "aalii",
+            "rrryr": {
+                "guess": "edify"
+            },
+            "rrrgr": {
+                "guess": "medic"
+            },
+            "rrrrr": {
+                "guess": "weedy"
+            }
+        },
+        "yryyy": {
+            "guess": "endow"
+        },
+        "rryyy": {
+            "guess": "advew",
+            "rrryr": {
+                "guess": "enjoy"
+            },
+            "rrgyr": {
+                "guess": "envoy"
+            },
+            "rryyr": {
+                "guess": "venom"
+            }
+        },
+        "rrgry": {
+            "guess": "epoch",
+            "gggrr": {
+                "guess": "epoxy"
+            }
+        },
+        "yggrg": {
+            "guess": "erode"
+        },
+        "rgyry": {
+            "guess": "error"
+        },
+        "yrrgy": {
+            "guess": "fiend"
+        },
+        "ryyrg": {
+            "guess": "buggy",
+            "rrrrr": {
+                "guess": "force"
+            },
+            "rrrgr": {
+                "guess": "forge"
+            },
+            "rrygr": {
+                "guess": "gorge"
+            },
+            "yrrrr": {
+                "guess": "ombre"
+            },
+            "rygrr": {
+                "guess": "rogue"
+            },
+            "ryrgr": {
+                "guess": "rouge"
+            }
+        },
+        "rryry": {
+            "guess": "gecko"
+        },
+        "ryryg": {
+            "guess": "genre",
+            "rgyyg": {
+                "guess": "nerve"
+            }
+        },
+        "rrgyg": {
+            "guess": "gnome"
+        },
+        "ryyyy": {
+            "guess": "heron"
+        },
+        "yyyrg": {
+            "guess": "horde"
+        },
+        "yrryy": {
+            "guess": "needy"
+        },
+        "yyryy": {
+            "guess": "nerdy"
+        },
+        "yrryg": {
+            "guess": "nudge",
+            "yygrg": {
+                "guess": "undue"
+            }
+        },
+        "rrygg": {
+            "guess": "opine",
+            "grggg": {
+                "guess": "ovine"
+            }
+        },
+        "rryyg": {
+            "guess": "ounce"
+        },
+        "yryrg": {
+            "guess": "oxide"
+        },
+        "rrggg": {
+            "guess": "ozone",
+            "rrggg": {
+                "guess": "phone"
+            }
+        },
+        "rrrgg": {
+            "guess": "penne",
+            "rrrgg": {
+                "guess": "whine"
+            }
+        },
+        "yyrry": {
+            "guess": "reedy",
+            "ygryr": {
+                "guess": "weird"
+            }
+        },
+        "ryryy": {
+            "guess": "reign",
+            "ggrrg": {
+                "guess": "rerun"
+            }
+        },
+        "yyrrg": {
+            "guess": "ridge"
+        },
+        "rgrry": {
+            "guess": "wreck"
+        }
+    },
+    "rrryg": {
+        "guess": "curio",
+        "rrrgr": {
+            "guess": "befit",
+            "ygrgg": {
+                "guess": "debit"
+            }
+        },
+        "gryrr": {
+            "guess": "crept"
+        },
+        "ryrrr": {
+            "guess": "debut"
+        },
+        "rrrry": {
+            "guess": "depot"
+        },
+        "yrryr": {
+            "guess": "edict",
+            "grggg": {
+                "guess": "evict"
+            }
+        },
+        "rrryr": {
+            "guess": "eight",
+            "yyrrg": {
+                "guess": "inept"
+            }
+        },
+        "yrrrr": {
+            "guess": "eject"
+        },
+        "yryrr": {
+            "guess": "erect"
+        },
+        "ryyrr": {
+            "guess": "erupt",
+            "yyyrg": {
+                "guess": "rebut"
+            }
+        },
+        "rrrrr": {
+            "guess": "event",
+            "rrgrg": {
+                "guess": "theft"
+            }
+        },
+        "rryrr": {
+            "guess": "exert"
+        },
+        "rryyr": {
+            "guess": "inert"
+        },
+        "rrggr": {
+            "guess": "merit"
+        },
+        "rryry": {
+            "guess": "overt"
+        },
+        "yyyrr": {
+            "guess": "recut"
+        },
+        "rrygr": {
+            "guess": "refit",
+            "ggrgg": {
+                "guess": "remit"
+            }
+        }
+    },
+    "rrrgg": {
+        "guess": "cerne",
+        "rgrry": {
+            "guess": "beget"
+        },
+        "rggry": {
+            "guess": "beret"
+        },
+        "gyrrr": {
+            "guess": "comet",
+            "ggrgg": {
+                "guess": "covet"
+            }
+        },
+        "ryrrr": {
+            "guess": "duvet",
+            "rgrgg": {
+                "guess": "quiet"
+            }
+        },
+        "rygry": {
+            "guess": "egret"
+        },
+        "ryyry": {
+            "guess": "greet"
+        },
+        "yyrrr": {
+            "guess": "octet"
+        },
+        "ryyrr": {
+            "guess": "rivet"
+        },
+        "rgryy": {
+            "guess": "tenet"
+        },
+        "ryrry": {
+            "guess": "tweet"
+        },
+        "ryryr": {
+            "guess": "unmet"
+        }
+    },
+    "rrgyr": {
+        "guess": "himbo",
+        "yrryr": {
+            "guess": "belch"
+        },
+        "ryryr": {
+            "guess": "belie"
+        },
+        "rrryr": {
+            "guess": "abcee",
+            "ryryg": {
+                "guess": "belle"
+            },
+            "ryryr": {
+                "guess": "belly"
+            },
+            "ryrrg": {
+                "guess": "bulge"
+            }
+        },
+        "rrryy": {
+            "guess": "below"
+        },
+        "rgryr": {
+            "guess": "bilge"
+        },
+        "rrrrg": {
+            "guess": "cello"
+        },
+        "rrrrr": {
+            "guess": "delve",
+            "rggrr": {
+                "guess": "jelly"
+            }
+        },
+        "rrrry": {
+            "guess": "felon"
+        },
+        "gyrrr": {
+            "guess": "helix"
+        },
+        "grrrg": {
+            "guess": "hello"
+        },
+        "rryry": {
+            "guess": "melon"
+        },
+        "ryrrr": {
+            "guess": "relic"
+        },
+        "yrrrr": {
+            "guess": "welch"
+        }
+    },
+    "rrryy": {
+        "guess": "trite",
+        "ryrgy": {
+            "guess": "berth"
+        },
+        "rgrgg": {
+            "guess": "brute",
+            "rgrgg": {
+                "guess": "wrote"
+            }
+        },
+        "yrrgg": {
+            "guess": "butte"
+        },
+        "rrrgg": {
+            "guess": "chute",
+            "rrygg": {
+                "guess": "quote"
+            }
+        },
+        "yryrg": {
+            "guess": "cutie",
+            "ryggg": {
+                "guess": "untie"
+            }
+        },
+        "rrggy": {
+            "guess": "deity"
+        },
+        "rrrgy": {
+            "guess": "aahed",
+            "rryyy": {
+                "guess": "depth"
+            },
+            "rrryr": {
+                "guess": "empty"
+            },
+            "rryyr": {
+                "guess": "hefty"
+            }
+        },
+        "yrrry": {
+            "guess": "detox",
+            "rggrr": {
+                "guess": "fetch"
+            }
+        },
+        "yyrry": {
+            "guess": "anomy",
+            "rgrrg": {
+                "guess": "entry"
+            },
+            "rryyr": {
+                "guess": "metro"
+            },
+            "rrrrr": {
+                "guess": "retch"
+            },
+            "rryrr": {
+                "guess": "retro"
+            },
+            "rrrrg": {
+                "guess": "retry"
+            }
+        },
+        "yryry": {
+            "guess": "ethic",
+            "yyrgr": {
+                "guess": "fetid"
+            }
+        },
+        "yrrrg": {
+            "guess": "etude"
+        },
+        "ryrgg": {
+            "guess": "forte",
+            "rgygg": {
+                "guess": "route"
+            }
+        },
+        "yrrgy": {
+            "guess": "jetty",
+            "rgggg": {
+                "guess": "petty"
+            }
+        },
+        "rrygy": {
+            "guess": "piety"
+        },
+        "rrggg": {
+            "guess": "abuna",
+            "rryrr": {
+                "guess": "quite"
+            },
+            "rryyr": {
+                "guess": "unite"
+            },
+            "rrrrr": {
+                "guess": "white"
+            }
+        },
+        "grrry": {
+            "guess": "teddy",
+            "ggrrr": {
+                "guess": "tempo"
+            }
+        },
+        "grrgy": {
+            "guess": "teeth",
+            "ggrgg": {
+                "guess": "tenth"
+            }
+        },
+        "gyrry": {
+            "guess": "tenor"
+        },
+        "gryry": {
+            "guess": "tepid"
+        },
+        "gyyry": {
+            "guess": "their"
+        },
+        "grrrg": {
+            "guess": "theme",
+            "ggrgg": {
+                "guess": "thyme"
+            }
+        },
+        "gyrrg": {
+            "guess": "there"
+        },
+        "gryyg": {
+            "guess": "tithe"
+        },
+        "ggrry": {
+            "guess": "trend"
+        },
+        "gggrg": {
+            "guess": "abaca",
+            "ryrrr": {
+                "guess": "tribe"
+            },
+            "rrrgr": {
+                "guess": "trice"
+            },
+            "rrrrr": {
+                "guess": "tripe"
+            }
+        },
+        "ggrrg": {
+            "guess": "above",
+            "rrgrg": {
+                "guess": "trope"
+            },
+            "rrggg": {
+                "guess": "trove"
+            },
+            "rrrrg": {
+                "guess": "truce"
+            }
+        },
+        "grgrg": {
+            "guess": "twice",
+            "gggrg": {
+                "guess": "twine"
+            }
+        },
+        "rgggg": {
+            "guess": "write"
+        }
+    },
+    "yrrgg": {
+        "guess": "aborn",
+        "ryrrr": {
+            "guess": "beset"
+        },
+        "rryry": {
+            "guess": "onset"
+        },
+        "rrryr": {
+            "guess": "reset"
+        },
+        "rrrry": {
+            "guess": "unset"
+        },
+        "rrrrr": {
+            "guess": "upset"
+        }
+    },
+    "rrygy": {
+        "guess": "abmho",
+        "ryrrr": {
+            "guess": "betel"
+        },
+        "rrryy": {
+            "guess": "hotel"
+        },
+        "rryry": {
+            "guess": "motel"
+        },
+        "rrrry": {
+            "guess": "towel"
+        }
+    },
+    "rrygr": {
+        "guess": "livor",
+        "yrgrr": {
+            "guess": "bevel"
+        },
+        "yrrrr": {
+            "guess": "becap",
+            "ggrrr": {
+                "guess": "bezel"
+            },
+            "gyrrr": {
+                "guess": "bleed"
+            },
+            "gyrrg": {
+                "guess": "bleep"
+            },
+            "ryyrr": {
+                "guess": "clued"
+            },
+            "rygrr": {
+                "guess": "excel"
+            },
+            "ryrry": {
+                "guess": "expel"
+            },
+            "rgrrr": {
+                "guess": "jewel"
+            },
+            "ryrrr": {
+                "guess": "kneel",
+                "rrggg": {
+                    "guess": "wheel"
+                }
+            }
+        },
+        "yrrrg": {
+            "guess": "abcee",
+            "ryrgr": {
+                "guess": "bluer"
+            },
+            "rrrgy": {
+                "guess": "elder"
+            },
+            "rrrgr": {
+                "guess": "flyer"
+            },
+            "rrggr": {
+                "guess": "ulcer"
+            }
+        },
+        "yrryr": {
+            "guess": "adawn",
+            "rrryr": {
+                "guess": "bowel"
+            },
+            "ryryr": {
+                "guess": "dowel"
+            },
+            "ryrrr": {
+                "guess": "model"
+            },
+            "ryrrg": {
+                "guess": "olden"
+            }
+        },
+        "yrrry": {
+            "guess": "abcee",
+            "rrygr": {
+                "guess": "cruel"
+            },
+            "rrrgr": {
+                "guess": "gruel"
+            },
+            "ryrgy": {
+                "guess": "rebel"
+            },
+            "rrrgy": {
+                "guess": "repel"
+            }
+        },
+        "yyrrg": {
+            "guess": "flier",
+            "rgggg": {
+                "guess": "plier"
+            }
+        },
+        "yrgyr": {
+            "guess": "hovel",
+            "rgggg": {
+                "guess": "novel"
+            }
+        },
+        "yyrrr": {
+            "guess": "impel",
+            "yrygy": {
+                "guess": "plied"
+            }
+        },
+        "grrrg": {
+            "guess": "leper"
+        },
+        "grgrr": {
+            "guess": "level"
+        },
+        "grgrg": {
+            "guess": "lever"
+        },
+        "ggrrr": {
+            "guess": "aback",
+            "ryrrr": {
+                "guess": "libel"
+            },
+            "rrrry": {
+                "guess": "liken"
+            },
+            "rrrrr": {
+                "guess": "linen"
+            }
+        },
+        "ggrrg": {
+            "guess": "liner"
+        },
+        "gggrg": {
+            "guess": "liver"
+        },
+        "grgyg": {
+            "guess": "lover"
+        },
+        "grryg": {
+            "guess": "lower"
+        },
+        "grrrr": {
+            "guess": "lumen"
+        },
+        "yrryg": {
+            "guess": "older"
+        },
+        "ygrrr": {
+            "guess": "pixel"
+        },
+        "yrgry": {
+            "guess": "revel"
+        },
+        "yryyr": {
+            "guess": "vowel"
+        }
+    },
+    "rryyr": {
+        "guess": "beige",
+        "gryrg": {
+            "guess": "bible"
+        },
+        "gyrrr": {
+            "guess": "blend"
+        },
+        "grrrg": {
+            "guess": "bloke",
+            "gyyrg": {
+                "guess": "boule"
+            }
+        },
+        "grryg": {
+            "guess": "bugle"
+        },
+        "ryrrr": {
+            "guess": "awful",
+            "rrrry": {
+                "guess": "clerk"
+            },
+            "rgrrg": {
+                "guess": "dwell"
+            },
+            "rryry": {
+                "guess": "fleck"
+            },
+            "rrryg": {
+                "guess": "quell"
+            },
+            "ryrry": {
+                "guess": "whelp"
+            }
+        },
+        "rrrrg": {
+            "guess": "plonk",
+            "rgggr": {
+                "guess": "clone"
+            },
+            "rggrr": {
+                "guess": "clove"
+            },
+            "ryrrr": {
+                "guess": "cycle"
+            },
+            "rgrry": {
+                "guess": "fluke"
+            },
+            "rgrrr": {
+                "guess": "flume"
+            },
+            "ggrrr": {
+                "guess": "plume"
+            },
+            "ryryr": {
+                "guess": "uncle"
+            },
+            "rygrr": {
+                "guess": "whole"
+            }
+        },
+        "rgyrr": {
+            "guess": "devil",
+            "rgrgg": {
+                "guess": "peril"
+            }
+        },
+        "yyrrr": {
+            "guess": "elbow"
+        },
+        "ryrgy": {
+            "guess": "elegy"
+        },
+        "ryyrr": {
+            "guess": "affly",
+            "rrgyr": {
+                "guess": "elfin"
+            },
+            "ryrgr": {
+                "guess": "field"
+            },
+            "rrrgr": {
+                "guess": "wield"
+            },
+            "rrrgy": {
+                "guess": "yield"
+            }
+        },
+        "rygrg": {
+            "guess": "elide",
+            "gygrg": {
+                "guess": "exile"
+            }
+        },
+        "ryrrg": {
+            "guess": "elope",
+            "ggrrg": {
+                "guess": "elude"
+            }
+        },
+        "rrgyg": {
+            "guess": "glide",
+            "gygrg": {
+                "guess": "guile"
+            }
+        },
+        "yrryg": {
+            "guess": "globe"
+        },
+        "rrryg": {
+            "guess": "glove"
+        },
+        "rgrgg": {
+            "guess": "ledge"
+        },
+        "rgrry": {
+            "guess": "leech",
+            "gggrr": {
+                "guess": "leery"
+            }
+        },
+        "rgrgr": {
+            "guess": "leggy"
+        },
+        "rgrrr": {
+            "guess": "abhor",
+            "rrrgr": {
+                "guess": "lemon"
+            },
+            "rrrrg": {
+                "guess": "lemur"
+            },
+            "rrrrr": {
+                "guess": "newly"
+            },
+            "rrrry": {
+                "guess": "reply"
+            }
+        },
+        "ryygg": {
+            "guess": "liege"
+        },
+        "rrrgg": {
+            "guess": "lodge",
+            "grrgg": {
+                "guess": "lunge"
+            }
+        },
+        "yrrrg": {
+            "guess": "noble"
+        },
+        "rrgrg": {
+            "guess": "olive",
+            "rygrg": {
+                "guess": "while"
+            }
+        },
+        "rryrg": {
+            "guess": "rifle"
+        }
+    },
+    "rrrgr": {
+        "guess": "nidor",
+        "rgrrr": {
+            "guess": "bicep"
+        },
+        "yrryr": {
+            "guess": "chyme",
+            "rryry": {
+                "guess": "boney"
+            },
+            "grrry": {
+                "guess": "coven"
+            },
+            "ryyry": {
+                "guess": "honey"
+            },
+            "rryyy": {
+                "guess": "money"
+            },
+            "rrrry": {
+                "guess": "woken",
+                "ggrgg": {
+                    "guess": "woven"
+                }
+            },
+            "rrryy": {
+                "guess": "women"
+            }
+        },
+        "rrryg": {
+            "guess": "womby",
+            "rgryr": {
+                "guess": "boxer"
+            },
+            "rgrrr": {
+                "guess": "charr",
+                "grryg": {
+                    "guess": "corer"
+                },
+                "grrrg": {
+                    "guess": "cover"
+                },
+                "ryrrg": {
+                    "guess": "hover"
+                },
+                "rrrrg": {
+                    "guess": "joker",
+                    "rgggg": {
+                        "guess": "poker"
+                    }
+                },
+                "rrryg": {
+                    "guess": "roger",
+                    "ggrgg": {
+                        "guess": "rover"
+                    }
+                }
+            },
+            "ygrrr": {
+                "guess": "apace",
+                "rrryy": {
+                    "guess": "cower"
+                },
+                "ryrry": {
+                    "guess": "power"
+                },
+                "rrrry": {
+                    "guess": "rower"
+                }
+            },
+            "rgrry": {
+                "guess": "foyer"
+            },
+            "rggrr": {
+                "guess": "homer"
+            },
+            "rgyrr": {
+                "guess": "mover"
+            },
+            "ygyrr": {
+                "guess": "mower"
+            },
+            "ryrrr": {
+                "guess": "offer"
+            },
+            "ggrrr": {
+                "guess": "wooer"
+            }
+        },
+        "rryry": {
+            "guess": "befog",
+            "gyrrr": {
+                "guess": "breed"
+            },
+            "ryrrr": {
+                "guess": "creed"
+            },
+            "ryyrr": {
+                "guess": "freed"
+            },
+            "ryrry": {
+                "guess": "greed"
+            }
+        },
+        "ryrry": {
+            "guess": "brief",
+            "rgggg": {
+                "guess": "grief"
+            }
+        },
+        "rrrrg": {
+            "guess": "bevue",
+            "gyryr": {
+                "guess": "buyer"
+            },
+            "ryrry": {
+                "guess": "cheer",
+                "rrggg": {
+                    "guess": "freer"
+                }
+            },
+            "yyrrr": {
+                "guess": "cyber"
+            },
+            "yyrry": {
+                "guess": "ember"
+            },
+            "rggry": {
+                "guess": "fever"
+            },
+            "rgrry": {
+                "guess": "fewer",
+                "ygrgg": {
+                    "guess": "refer"
+                }
+            },
+            "ryrrr": {
+                "guess": "hyper"
+            },
+            "ryryr": {
+                "guess": "purer",
+                "yyrgg": {
+                    "guess": "upper"
+                }
+            },
+            "ryryy": {
+                "guess": "queer"
+            }
+        },
+        "rrrrr": {
+            "guess": "cheek",
+            "yrygr": {
+                "guess": "emcee"
+            }
+        },
+        "ryrrr": {
+            "guess": "chief"
+        },
+        "rggrg": {
+            "guess": "arrow",
+            "ryrrr": {
+                "guess": "cider"
+            },
+            "ryyrr": {
+                "guess": "rider"
+            },
+            "ryrry": {
+                "guess": "wider"
+            }
+        },
+        "rrryr": {
+            "guess": "covey",
+            "rgrgg": {
+                "guess": "gooey"
+            }
+        },
+        "rrrry": {
+            "guess": "adrip",
+            "rryrr": {
+                "guess": "creek"
+            },
+            "rryrg": {
+                "guess": "creep"
+            },
+            "rrgry": {
+                "guess": "puree"
+            },
+            "rryry": {
+                "guess": "rupee"
+            }
+        },
+        "ryyry": {
+            "guess": "decaf",
+            "yyyrr": {
+                "guess": "cried"
+            },
+            "gyrrr": {
+                "guess": "dried"
+            },
+            "yyrry": {
+                "guess": "fried"
+            },
+            "yyrrr": {
+                "guess": "pried"
+            }
+        },
+        "ryrrg": {
+            "guess": "crier"
+        },
+        "rryrg": {
+            "guess": "defer",
+            "grrgg": {
+                "guess": "dryer"
+            }
+        },
+        "rgyrr": {
+            "guess": "dicey"
+        },
+        "ygyrg": {
+            "guess": "diner"
+        },
+        "rgyrg": {
+            "guess": "diver"
+        },
+        "rryyr": {
+            "guess": "dopey"
+        },
+        "yryyr": {
+            "guess": "dozen"
+        },
+        "ryyrg": {
+            "guess": "drier"
+        },
+        "rryrr": {
+            "guess": "embed"
+        },
+        "rgrrg": {
+            "guess": "parev",
+            "rrygr": {
+                "guess": "fiber",
+                "ggrgg": {
+                    "guess": "fixer"
+                }
+            },
+            "rrygy": {
+                "guess": "giver",
+                "rgggg": {
+                    "guess": "river"
+                }
+            },
+            "grygr": {
+                "guess": "piper"
+            },
+            "yrygr": {
+                "guess": "riper"
+            },
+            "yrygy": {
+                "guess": "viper"
+            }
+        },
+        "ygrrg": {
+            "guess": "finer",
+            "rgggg": {
+                "guess": "miner"
+            }
+        },
+        "ygrrr": {
+            "guess": "adnex",
+            "rrygr": {
+                "guess": "given"
+            },
+            "rrggr": {
+                "guess": "piney"
+            },
+            "rrygy": {
+                "guess": "vixen"
+            }
+        },
+        "yrryg": {
+            "guess": "goner",
+            "ryggg": {
+                "guess": "owner"
+            }
+        },
+        "yrrry": {
+            "guess": "abeng",
+            "rrgyy": {
+                "guess": "green"
+            },
+            "rrgyr": {
+                "guess": "preen"
+            },
+            "rryyr": {
+                "guess": "renew"
+            }
+        },
+        "yrrrr": {
+            "guess": "hymen",
+            "rrrgg": {
+                "guess": "queen"
+            }
+        },
+        "yygrr": {
+            "guess": "index"
+        },
+        "yyrrg": {
+            "guess": "infer",
+            "ggrgg": {
+                "guess": "inner"
+            }
+        },
+        "yryrr": {
+            "guess": "afear",
+            "rrgrr": {
+                "guess": "kneed"
+            },
+            "ryyrr": {
+                "guess": "unfed"
+            },
+            "rryrr": {
+                "guess": "unwed"
+            }
+        },
+        "rrgyr": {
+            "guess": "modem"
+        },
+        "grrrg": {
+            "guess": "never",
+            "ggrgg": {
+                "guess": "newer"
+            }
+        },
+        "ggrrg": {
+            "guess": "nicer"
+        },
+        "rrgyg": {
+            "guess": "odder",
+            "grggg": {
+                "guess": "order"
+            }
+        },
+        "ygrry": {
+            "guess": "ripen"
+        },
+        "rrgyy": {
+            "guess": "rodeo"
+        },
+        "rrgrg": {
+            "guess": "ruder",
+            "ryggg": {
+                "guess": "udder"
+            }
+        },
+        "yrgrg": {
+            "guess": "under"
+        },
+        "rggyr": {
+            "guess": "video"
+        },
+        "yggrr": {
+            "guess": "widen"
+        }
+    },
+    "rrrrr": {
+        "guess": "cornu",
+        "rrrrr": {
+            "guess": "fudgy",
+            "rrgrg": {
+                "guess": "biddy"
+            },
+            "rryrg": {
+                "guess": "dizzy"
+            },
+            "grrrg": {
+                "guess": "fizzy"
+            },
+            "rrgyg": {
+                "guess": "giddy"
+            },
+            "rrrrg": {
+                "guess": "hippy",
+                "rgrgg": {
+                    "guess": "wimpy"
+                }
+            },
+            "yrrrg": {
+                "guess": "jiffy"
+            },
+            "rrrgg": {
+                "guess": "piggy"
+            },
+            "rrryg": {
+                "guess": "pygmy"
+            },
+            "rryrr": {
+                "guess": "vivid"
+            },
+            "yrrrr": {
+                "guess": "whiff"
+            }
+        },
+        "ryryr": {
+            "guess": "ablow",
+            "ryryr": {
+                "guess": "bingo"
+            },
+            "rrryr": {
+                "guess": "dingo"
+            },
+            "ryrgr": {
+                "guess": "inbox"
+            },
+            "rrryy": {
+                "guess": "known"
+            },
+            "rrrgr": {
+                "guess": "onion"
+            }
+        },
+        "yrgrr": {
+            "guess": "birch"
+        },
+        "rgrrr": {
+            "guess": "bodoh",
+            "ggrrr": {
+                "guess": "bobby"
+            },
+            "ggryr": {
+                "guess": "booby",
+                "gggrg": {
+                    "guess": "boozy"
+                }
+            },
+            "rggrr": {
+                "guess": "dodgy"
+            },
+            "rgyrr": {
+                "guess": "dowdy"
+            },
+            "rgrrr": {
+                "guess": "foggy",
+                "rgrrg": {
+                    "guess": "poppy"
+                }
+            },
+            "rgyyr": {
+                "guess": "agama",
+                "ryrrr": {
+                    "guess": "goody"
+                },
+                "rrryr": {
+                    "guess": "moody"
+                },
+                "rrrrr": {
+                    "guess": "woody"
+                }
+            },
+            "rgryr": {
+                "guess": "goofy",
+                "rggrg": {
+                    "guess": "woozy"
+                }
+            },
+            "ygrry": {
+                "guess": "hobby"
+            },
+            "rgyry": {
+                "guess": "howdy"
+            }
+        },
+        "rgryr": {
+            "guess": "bongo"
+        },
+        "rgrry": {
+            "guess": "bough",
+            "rgggg": {
+                "guess": "dough"
+            }
+        },
+        "rgrgy": {
+            "guess": "bumph",
+            "gyrrr": {
+                "guess": "bound"
+            },
+            "ryrrr": {
+                "guess": "adawn",
+                "ryrry": {
+                    "guess": "found"
+                },
+                "ryryy": {
+                    "guess": "wound"
+                },
+                "rrrry": {
+                    "guess": "young"
+                }
+            },
+            "ryrry": {
+                "guess": "hound"
+            },
+            "ryyrr": {
+                "guess": "mound"
+            },
+            "ryryr": {
+                "guess": "pound"
+            }
+        },
+        "yryrr": {
+            "guess": "brick",
+            "rgggg": {
+                "guess": "prick"
+            }
+        },
+        "rrygr": {
+            "guess": "bodgy",
+            "grryr": {
+                "guess": "bring"
+            },
+            "grrrr": {
+                "guess": "brink"
+            },
+            "grrrg": {
+                "guess": "briny"
+            },
+            "rryrr": {
+                "guess": "drink"
+            },
+            "rryyr": {
+                "guess": "grind"
+            },
+            "rrryr": {
+                "guess": "wring"
+            }
+        },
+        "ryyrr": {
+            "guess": "bipod",
+            "grrgg": {
+                "guess": "brood"
+            },
+            "grrgr": {
+                "guess": "brook",
+                "ggggr": {
+                    "guess": "broom"
+                }
+            },
+            "rrygy": {
+                "guess": "droop"
+            },
+            "rrryg": {
+                "guess": "fjord"
+            },
+            "rrrgr": {
+                "guess": "groom"
+            },
+            "rrryy": {
+                "guess": "hydro"
+            },
+            "ryryr": {
+                "guess": "ivory"
+            },
+            "ryyyr": {
+                "guess": "primo"
+            },
+            "ryygr": {
+                "guess": "prior"
+            },
+            "rrygr": {
+                "guess": "proof"
+            },
+            "rryyr": {
+                "guess": "proxy"
+            },
+            "rgrgr": {
+                "guess": "rigor",
+                "rgggg": {
+                    "guess": "vigor"
+                }
+            }
+        },
+        "ryyyr": {
+            "guess": "bifid",
+            "grrrr": {
+                "guess": "brown"
+            },
+            "rrrry": {
+                "guess": "drown"
+            },
+            "rryrr": {
+                "guess": "frown"
+            },
+            "rrrgr": {
+                "guess": "groin"
+            },
+            "rrrrr": {
+                "guess": "grown"
+            },
+            "rgrrr": {
+                "guess": "minor"
+            }
+        },
+        "rrrry": {
+            "guess": "moped",
+            "rrrry": {
+                "guess": "buddy"
+            },
+            "rrrrr": {
+                "guess": "buggy",
+                "rgrrg": {
+                    "guess": "fuzzy"
+                }
+            },
+            "yrrry": {
+                "guess": "dummy"
+            },
+            "yryry": {
+                "guess": "dumpy"
+            },
+            "yrrrr": {
+                "guess": "gummy"
+            },
+            "rrgrr": {
+                "guess": "guppy",
+                "rgggg": {
+                    "guess": "puppy"
+                }
+            },
+            "yrrrg": {
+                "guess": "humid"
+            },
+            "yryrr": {
+                "guess": "humph",
+                "rgggr": {
+                    "guess": "jumpy"
+                }
+            },
+            "grrry": {
+                "guess": "muddy"
+            },
+            "grrrr": {
+                "guess": "mummy"
+            },
+            "rryry": {
+                "guess": "pudgy"
+            },
+            "rryrr": {
+                "guess": "puffy"
+            }
+        },
+        "yrryy": {
+            "guess": "abamp",
+            "ryrrr": {
+                "guess": "bunch"
+            },
+            "rrrrr": {
+                "guess": "hunch"
+            },
+            "rrryr": {
+                "guess": "munch"
+            },
+            "rrrry": {
+                "guess": "punch"
+            }
+        },
+        "rrrgy": {
+            "guess": "bunny",
+            "rgggg": {
+                "guess": "funny"
+            }
+        },
+        "ryrry": {
+            "guess": "agios",
+            "rrrgr": {
+                "guess": "buxom"
+            },
+            "ryryr": {
+                "guess": "gumbo"
+            },
+            "rrryr": {
+                "guess": "jumbo"
+            },
+            "rrgyr": {
+                "guess": "opium"
+            }
+        },
+        "grrrr": {
+            "guess": "chick",
+            "gryyr": {
+                "guess": "civic"
+            }
+        },
+        "gryrr": {
+            "guess": "abamp",
+            "rrrrg": {
+                "guess": "chirp"
+            },
+            "rrrrr": {
+                "guess": "crick"
+            },
+            "rrrgg": {
+                "guess": "crimp"
+            }
+        },
+        "gyrrr": {
+            "guess": "chock"
+        },
+        "gyyrr": {
+            "guess": "adhoc",
+            "rryyy": {
+                "guess": "choir"
+            },
+            "ryyyy": {
+                "guess": "chord"
+            },
+            "rrryy": {
+                "guess": "crock"
+            },
+            "rrrgy": {
+                "guess": "crook"
+            },
+            "ryryy": {
+                "guess": "crowd"
+            }
+        },
+        "grrry": {
+            "guess": "abaca",
+            "rrrgr": {
+                "guess": "chuck"
+            },
+            "rrryr": {
+                "guess": "chump"
+            },
+            "ryryr": {
+                "guess": "cubic"
+            }
+        },
+        "grrgy": {
+            "guess": "chunk"
+        },
+        "gryyy": {
+            "guess": "churn"
+        },
+        "grryr": {
+            "guess": "cinch",
+            "gygyr": {
+                "guess": "cynic"
+            }
+        },
+        "ggrrr": {
+            "guess": "comfy",
+            "gggrr": {
+                "guess": "comic"
+            }
+        },
+        "ggryr": {
+            "guess": "aahed",
+            "rryrr": {
+                "guess": "conch"
+            },
+            "rrrry": {
+                "guess": "condo"
+            },
+            "rrrrr": {
+                "guess": "conic"
+            }
+        },
+        "ggggr": {
+            "guess": "corny"
+        },
+        "ggrry": {
+            "guess": "couch",
+            "gggrg": {
+                "guess": "cough"
+            }
+        },
+        "gyygr": {
+            "guess": "crony"
+        },
+        "gyyry": {
+            "guess": "croup"
+        },
+        "gyyyr": {
+            "guess": "crown"
+        },
+        "gryry": {
+            "guess": "crumb",
+            "ggggr": {
+                "guess": "crump"
+            }
+        },
+        "grryy": {
+            "guess": "cumin"
+        },
+        "gygry": {
+            "guess": "curio"
+        },
+        "grgry": {
+            "guess": "curry",
+            "gggrg": {
+                "guess": "curvy"
+            }
+        },
+        "rrryr": {
+            "guess": "damps",
+            "grrrr": {
+                "guess": "dingy"
+            },
+            "rrrrr": {
+                "guess": "kinky"
+            },
+            "rryrr": {
+                "guess": "minim"
+            },
+            "rrggr": {
+                "guess": "nymph"
+            },
+            "rrryr": {
+                "guess": "pinky"
+            },
+            "yrrrr": {
+                "guess": "windy"
+            }
+        },
+        "rgrgr": {
+            "guess": "abide",
+            "rrgyr": {
+                "guess": "doing"
+            },
+            "rrryr": {
+                "guess": "downy"
+            },
+            "rrgrr": {
+                "guess": "going"
+            }
+        },
+        "rgyyr": {
+            "guess": "aahed",
+            "rrrry": {
+                "guess": "donor"
+            },
+            "rryrr": {
+                "guess": "honor"
+            },
+            "rrrrr": {
+                "guess": "robin"
+            }
+        },
+        "rgyrr": {
+            "guess": "abide",
+            "rrryr": {
+                "guess": "dowry"
+            },
+            "rrrrr": {
+                "guess": "roomy"
+            },
+            "rrrgr": {
+                "guess": "rowdy"
+            }
+        },
+        "rryry": {
+            "guess": "abide",
+            "rryyr": {
+                "guess": "druid"
+            },
+            "rrrrr": {
+                "guess": "gruff"
+            },
+            "rrgrr": {
+                "guess": "quirk"
+            },
+            "rrrgr": {
+                "guess": "ruddy"
+            },
+            "ryrrr": {
+                "guess": "rugby"
+            }
+        },
+        "rrygy": {
+            "guess": "drunk",
+            "rgggr": {
+                "guess": "wrung"
+            }
+        },
+        "yrrry": {
+            "guess": "aback",
+            "rrryr": {
+                "guess": "duchy"
+            },
+            "rrrgr": {
+                "guess": "juicy"
+            },
+            "rrryy": {
+                "guess": "mucky"
+            },
+            "ryryr": {
+                "guess": "pubic"
+            },
+            "rrrgg": {
+                "guess": "quick"
+            }
+        },
+        "rrrgr": {
+            "guess": "acidy",
+            "rrgyy": {
+                "guess": "dying"
+            },
+            "rryrg": {
+                "guess": "ninny"
+            },
+            "rrgry": {
+                "guess": "vying"
+            },
+            "rrgrg": {
+                "guess": "whiny"
+            }
+        },
+        "yrryr": {
+            "guess": "aflap",
+            "ryrrr": {
+                "guess": "finch"
+            },
+            "rrrry": {
+                "guess": "pinch"
+            },
+            "rrrrr": {
+                "guess": "winch"
+            }
+        },
+        "rggrr": {
+            "guess": "aggry",
+            "ryryr": {
+                "guess": "forgo"
+            },
+            "rrryr": {
+                "guess": "morph"
+            },
+            "rrryg": {
+                "guess": "wordy"
+            },
+            "rrrgg": {
+                "guess": "worry"
+            }
+        },
+        "rggry": {
+            "guess": "forum"
+        },
+        "yyyrr": {
+            "guess": "frock",
+            "ryyyr": {
+                "guess": "micro"
+            }
+        },
+        "ryygr": {
+            "guess": "aphid",
+            "rrrrg": {
+                "guess": "frond"
+            },
+            "rrryr": {
+                "guess": "irony"
+            },
+            "ryrrr": {
+                "guess": "prong"
+            },
+            "rryyr": {
+                "guess": "rhino"
+            },
+            "rrrrr": {
+                "guess": "wrong"
+            }
+        },
+        "rrryy": {
+            "guess": "afizz",
+            "ryyrr": {
+                "guess": "fungi"
+            },
+            "ryrrr": {
+                "guess": "funky"
+            },
+            "rrrrr": {
+                "guess": "hunky"
+            },
+            "rryrr": {
+                "guess": "undid"
+            },
+            "rygrr": {
+                "guess": "unify"
+            },
+            "rryyr": {
+                "guess": "unzip"
+            }
+        },
+        "rygry": {
+            "guess": "furor",
+            "rgggg": {
+                "guess": "juror"
+            }
+        },
+        "rrgry": {
+            "guess": "abmho",
+            "rrrrr": {
+                "guess": "furry"
+            },
+            "rrryr": {
+                "guess": "hurry"
+            },
+            "rryrr": {
+                "guess": "murky"
+            }
+        },
+        "rgyry": {
+            "guess": "gourd",
+            "yggyr": {
+                "guess": "rough"
+            }
+        },
+        "rryrr": {
+            "guess": "abamp",
+            "rrrgr": {
+                "guess": "grimy"
+            },
+            "rrrry": {
+                "guess": "privy"
+            },
+            "rrrrr": {
+                "guess": "rigid"
+            }
+        },
+        "ryyry": {
+            "guess": "adhoc",
+            "rrryr": {
+                "guess": "group"
+            },
+            "rrygr": {
+                "guess": "humor"
+            },
+            "ryryr": {
+                "guess": "proud"
+            },
+            "rrrgr": {
+                "guess": "rumor"
+            }
+        },
+        "ryrrr": {
+            "guess": "abohm",
+            "rryyr": {
+                "guess": "hippo"
+            },
+            "rryrg": {
+                "guess": "idiom"
+            },
+            "rrgrr": {
+                "guess": "ovoid"
+            },
+            "rrgyr": {
+                "guess": "whoop"
+            },
+            "rryrr": {
+                "guess": "widow"
+            }
+        },
+        "rgggr": {
+            "guess": "horny"
+        },
+        "yrrgr": {
+            "guess": "icing"
+        },
+        "yryyy": {
+            "guess": "incur"
+        },
+        "ygryr": {
+            "guess": "ionic"
+        },
+        "yyryr": {
+            "guess": "knock"
+        },
+        "yrrrr": {
+            "guess": "aback",
+            "rrryr": {
+                "guess": "mimic"
+            },
+            "rrryy": {
+                "guess": "picky"
+            },
+            "rrrgr": {
+                "guess": "which"
+            }
+        },
+        "rggyr": {
+            "guess": "moron"
+        },
+        "rgyyy": {
+            "guess": "mourn"
+        },
+        "rrgrr": {
+            "guess": "myrrh"
+        },
+        "yyyry": {
+            "guess": "occur"
+        },
+        "ryrgr": {
+            "guess": "owing",
+            "yrrgr": {
+                "guess": "phony"
+            }
+        },
+        "ygrrr": {
+            "guess": "pooch"
+        },
+        "yggrr": {
+            "guess": "porch"
+        },
+        "ygrry": {
+            "guess": "pouch",
+            "rgggg": {
+                "guess": "vouch"
+            }
+        },
+        "ygyrr": {
+            "guess": "rocky"
+        },
+        "rgygy": {
+            "guess": "round"
+        },
+        "ryryy": {
+            "guess": "union"
+        }
+    },
+    "rrrrg": {
+        "guess": "groin",
+        "yryyr": {
+            "guess": "bigot"
+        },
+        "rgrry": {
+            "guess": "brunt"
+        },
+        "ryrry": {
+            "guess": "burnt"
+        },
+        "rryry": {
+            "guess": "acedy",
+            "ryrrr": {
+                "guess": "count"
+            },
+            "rrryr": {
+                "guess": "donut"
+            },
+            "rrrrr": {
+                "guess": "mount"
+            }
+        },
+        "ryyrr": {
+            "guess": "court",
+            "rgryg": {
+                "guess": "robot"
+            }
+        },
+        "rgrrr": {
+            "guess": "crypt"
+        },
+        "yrrgr": {
+            "guess": "digit"
+        },
+        "rryrr": {
+            "guess": "doubt"
+        },
+        "rgryr": {
+            "guess": "drift"
+        },
+        "rgggr": {
+            "guess": "droit"
+        },
+        "yrryr": {
+            "guess": "tawaf",
+            "yrrry": {
+                "guess": "fight"
+            },
+            "yrrrr": {
+                "guess": "might"
+            },
+            "grrrr": {
+                "guess": "tight"
+            },
+            "yryrr": {
+                "guess": "wight"
+            }
+        },
+        "rggry": {
+            "guess": "front"
+        },
+        "rgrgr": {
+            "guess": "fruit"
+        },
+        "gggrr": {
+            "guess": "grout"
+        },
+        "ggrry": {
+            "guess": "grunt"
+        },
+        "rryyr": {
+            "guess": "idiot",
+            "yrrgg": {
+                "guess": "pivot"
+            }
+        },
+        "yryyy": {
+            "guess": "ingot"
+        },
+        "rrryy": {
+            "guess": "input"
+        },
+        "rryyy": {
+            "guess": "joint",
+            "rgggg": {
+                "guess": "point"
+            }
+        },
+        "yrryy": {
+            "guess": "night"
+        },
+        "rgygr": {
+            "guess": "orbit"
+        },
+        "yryrr": {
+            "guess": "ought"
+        },
+        "rgryy": {
+            "guess": "print"
+        },
+        "yyryr": {
+            "guess": "right"
+        },
+        "rggrr": {
+            "guess": "trout"
+        },
+        "rrryr": {
+            "guess": "twixt"
+        },
+        "rrrry": {
+            "guess": "uncut"
+        },
+        "rrrgy": {
+            "guess": "unfit"
+        },
+        "rrygr": {
+            "guess": "vomit"
+        }
+    },
+    "rrgrr": {
+        "guess": "doily",
+        "rrygg": {
+            "guess": "fowth",
+            "rrrrr": {
+                "guess": "billy"
+            },
+            "grrrr": {
+                "guess": "filly"
+            },
+            "rrrry": {
+                "guess": "hilly"
+            },
+            "rryrr": {
+                "guess": "willy"
+            }
+        },
+        "rrryg": {
+            "guess": "bulky",
+            "rggrg": {
+                "guess": "pulpy"
+            }
+        },
+        "rrrgg": {
+            "guess": "abaft",
+            "ryrrr": {
+                "guess": "bully"
+            },
+            "rrryr": {
+                "guess": "fully"
+            },
+            "rrrrr": {
+                "guess": "gully"
+            }
+        },
+        "rgryr": {
+            "guess": "colon",
+            "ggggr": {
+                "guess": "color"
+            }
+        },
+        "grygg": {
+            "guess": "dilly"
+        },
+        "ggrgg": {
+            "guess": "dolly"
+        },
+        "grrgg": {
+            "guess": "dully"
+        },
+        "rryyg": {
+            "guess": "filmy",
+            "rggyg": {
+                "guess": "milky"
+            }
+        },
+        "rgyyr": {
+            "guess": "folio"
+        },
+        "rgrgg": {
+            "guess": "faugh",
+            "grrrr": {
+                "guess": "folly"
+            },
+            "rrryr": {
+                "guess": "golly"
+            },
+            "rrrry": {
+                "guess": "holly"
+            },
+            "rrrrr": {
+                "guess": "jolly"
+            }
+        },
+        "rrryr": {
+            "guess": "gulch",
+            "rgggg": {
+                "guess": "mulch"
+            }
+        },
+        "ryyyr": {
+            "guess": "igloo"
+        },
+        "ygryg": {
+            "guess": "moldy"
+        },
+        "ryryy": {
+            "guess": "nylon"
+        },
+        "rgryy": {
+            "guess": "polyp"
+        }
+    },
+    "rrrry": {
+        "guess": "north",
+        "rrggg": {
+            "guess": "abamp",
+            "ryrrr": {
+                "guess": "birth"
+            },
+            "rrrrr": {
+                "guess": "girth"
+            },
+            "rrryr": {
+                "guess": "mirth"
+            }
+        },
+        "rrrgr": {
+            "guess": "batik",
+            "grgyr": {
+                "guess": "bitty"
+            },
+            "rrgyr": {
+                "guess": "ditty",
+                "rgggg": {
+                    "guess": "witty"
+                }
+            },
+            "rryyr": {
+                "guess": "fifty"
+            },
+            "rrgyy": {
+                "guess": "kitty"
+            },
+            "rrgrr": {
+                "guess": "putty"
+            }
+        },
+        "rgrgg": {
+            "guess": "abohm",
+            "rygyr": {
+                "guess": "booth"
+            },
+            "rryyy": {
+                "guess": "mouth"
+            },
+            "rrgyr": {
+                "guess": "tooth"
+            },
+            "rryyr": {
+                "guess": "youth"
+            }
+        },
+        "rgrgr": {
+            "guess": "abamp",
+            "ryrrr": {
+                "guess": "booty"
+            },
+            "rrryr": {
+                "guess": "motto"
+            },
+            "rrrry": {
+                "guess": "pouty"
+            }
+        },
+        "rgryg": {
+            "guess": "abaca",
+            "ryrgr": {
+                "guess": "botch"
+            },
+            "rrrgr": {
+                "guess": "touch"
+            },
+            "rrrrr": {
+                "guess": "tough"
+            }
+        },
+        "ryygg": {
+            "guess": "broth",
+            "rgggg": {
+                "guess": "froth"
+            }
+        },
+        "rrryg": {
+            "guess": "hiped",
+            "yrrrr": {
+                "guess": "butch"
+            },
+            "ygrry": {
+                "guess": "ditch"
+            },
+            "yrrry": {
+                "guess": "dutch"
+            },
+            "ggrrr": {
+                "guess": "hitch"
+            },
+            "grrrr": {
+                "guess": "hutch"
+            },
+            "ygyrr": {
+                "guess": "pitch"
+            },
+            "yyrrr": {
+                "guess": "thigh"
+            },
+            "ygrrr": {
+                "guess": "witch"
+            }
+        },
+        "rrggr": {
+            "guess": "dirty"
+        },
+        "ryrgr": {
+            "guess": "ditto"
+        },
+        "rrrgg": {
+            "guess": "fifth",
+            "rgrgg": {
+                "guess": "width"
+            }
+        },
+        "rgggg": {
+            "guess": "forth",
+            "rgggg": {
+                "guess": "worth"
+            }
+        },
+        "rgggr": {
+            "guess": "forty"
+        },
+        "rrygr": {
+            "guess": "fritz"
+        },
+        "yyyyr": {
+            "guess": "intro"
+        },
+        "rrryy": {
+            "guess": "abaci",
+            "rrryy": {
+                "guess": "itchy"
+            },
+            "rrrry": {
+                "guess": "pithy"
+            },
+            "rrrgy": {
+                "guess": "thick"
+            },
+            "ryrrr": {
+                "guess": "thumb"
+            },
+            "rrrrr": {
+                "guess": "thump"
+            }
+        },
+        "yyrgr": {
+            "guess": "junto",
+            "rrggg": {
+                "guess": "pinto"
+            }
+        },
+        "yrrgr": {
+            "guess": "minty",
+            "ryygg": {
+                "guess": "unity"
+            }
+        },
+        "ygrgg": {
+            "guess": "month"
+        },
+        "rgryr": {
+            "guess": "admix",
+            "rrygr": {
+                "guess": "motif"
+            },
+            "ryrrr": {
+                "guess": "toddy"
+            },
+            "rrrgr": {
+                "guess": "topic"
+            },
+            "rrrgy": {
+                "guess": "toxic"
+            }
+        },
+        "rgyyr": {
+            "guess": "motor",
+            "rgggg": {
+                "guess": "rotor"
+            }
+        },
+        "grrgg": {
+            "guess": "ninth"
+        },
+        "ggryg": {
+            "guess": "notch"
+        },
+        "grrgr": {
+            "guess": "nutty"
+        },
+        "ryryr": {
+            "guess": "abide",
+            "rryrr": {
+                "guess": "optic"
+            },
+            "rrrgr": {
+                "guess": "outdo"
+            },
+            "rrrrr": {
+                "guess": "outgo"
+            }
+        },
+        "ryrgy": {
+            "guess": "photo"
+        },
+        "ryrgg": {
+            "guess": "quoth"
+        },
+        "yrryy": {
+            "guess": "thing",
+            "ggggr": {
+                "guess": "think"
+            }
+        },
+        "rryyy": {
+            "guess": "third"
+        },
+        "yyryy": {
+            "guess": "thong"
+        },
+        "yyyyy": {
+            "guess": "thorn"
+        },
+        "rygyy": {
+            "guess": "throb",
+            "ggggr": {
+                "guess": "throw"
+            }
+        },
+        "rrgyy": {
+            "guess": "thrum"
+        },
+        "rrryr": {
+            "guess": "timid"
+        },
+        "ygryr": {
+            "guess": "tonic",
+            "ggygr": {
+                "guess": "toxin"
+            }
+        },
+        "rggyg": {
+            "guess": "torch"
+        },
+        "rryyr": {
+            "guess": "abaci",
+            "rrrgy": {
+                "guess": "trick"
+            },
+            "rrrgr": {
+                "guess": "truck"
+            },
+            "rrrrr": {
+                "guess": "trump"
+            }
+        },
+        "ryyyr": {
+            "guess": "abamp",
+            "rrrrg": {
+                "guess": "troop"
+            },
+            "rrryr": {
+                "guess": "tumor"
+            },
+            "rrrrr": {
+                "guess": "tutor"
+            }
+        },
+        "yryyr": {
+            "guess": "trunk"
+        },
+        "rrygg": {
+            "guess": "truth"
+        },
+        "yrryr": {
+            "guess": "tunic",
+            "gryyr": {
+                "guess": "tying"
+            }
+        },
+        "rygyr": {
+            "guess": "turbo"
+        }
+    },
+    "yrrrr": {
+        "guess": "micro",
+        "rgrry": {
+            "guess": "bison",
+            "rgyyr": {
+                "guess": "kiosk"
+            }
+        },
+        "rrrry": {
+            "guess": "bonus",
+            "ggrry": {
+                "guess": "bossy"
+            }
+        },
+        "yrrry": {
+            "guess": "bosom"
+        },
+        "ryryr": {
+            "guess": "brisk",
+            "rgggg": {
+                "guess": "frisk"
+            }
+        },
+        "rrryr": {
+            "guess": "brush"
+        },
+        "rrrrr": {
+            "guess": "hasps",
+            "yrgrr": {
+                "guess": "bushy"
+            },
+            "rrgrr": {
+                "guess": "dusky"
+            },
+            "rrgry": {
+                "guess": "fussy"
+            },
+            "rryyr": {
+                "guess": "gypsy"
+            },
+            "grgrr": {
+                "guess": "husky"
+            },
+            "grgry": {
+                "guess": "hussy"
+            },
+            "yrgyr": {
+                "guess": "pushy"
+            }
+        },
+        "ryyyr": {
+            "guess": "crisp"
+        },
+        "rryyy": {
+            "guess": "cross"
+        },
+        "rryyr": {
+            "guess": "crush"
+        },
+        "rgyrg": {
+            "guess": "disco"
+        },
+        "rrryy": {
+            "guess": "dross",
+            "rgggg": {
+                "guess": "gross"
+            }
+        },
+        "rggrr": {
+            "guess": "ficus"
+        },
+        "rgrrr": {
+            "guess": "aapas",
+            "rrrry": {
+                "guess": "fishy"
+            },
+            "rrgry": {
+                "guess": "gipsy"
+            },
+            "rryry": {
+                "guess": "wispy"
+            }
+        },
+        "rrgry": {
+            "guess": "focus"
+        },
+        "yrrrr": {
+            "guess": "humus"
+        },
+        "ggrrr": {
+            "guess": "minus",
+            "ggrry": {
+                "guess": "missy"
+            }
+        },
+        "grrry": {
+            "guess": "mossy"
+        },
+        "grgrr": {
+            "guess": "mucus"
+        },
+        "grrrr": {
+            "guess": "mushy",
+            "gggrg": {
+                "guess": "musky"
+            }
+        },
+        "gyyrr": {
+            "guess": "music"
+        },
+        "ryrry": {
+            "guess": "noisy"
+        },
+        "yyryr": {
+            "guess": "prism"
+        },
+        "rgryr": {
+            "guess": "risky",
+            "ygyrr": {
+                "guess": "virus"
+            }
+        },
+        "ryrrr": {
+            "guess": "using",
+            "rygrr": {
+                "guess": "whisk"
+            }
+        },
+        "rrrgr": {
+            "guess": "usurp"
+        },
+        "rgryy": {
+            "guess": "visor"
+        }
+    },
+    "yyyrg": {
+        "guess": "blast"
+    },
+    "yryyr": {
+        "guess": "aboon",
+        "ryrrr": {
+            "guess": "bless"
+        },
+        "rrgrr": {
+            "guess": "close"
+        },
+        "rrrrr": {
+            "guess": "flesh"
+        },
+        "rrgyr": {
+            "guess": "loose"
+        },
+        "rryrr": {
+            "guess": "louse"
+        }
+    },
+    "rryrr": {
+        "guess": "courd",
+        "rrrrr": {
+            "guess": "agony",
+            "rrrrr": {
+                "guess": "blimp"
+            },
+            "rrrgr": {
+                "guess": "blink"
+            },
+            "ryrgr": {
+                "guess": "fling"
+            },
+            "ryrry": {
+                "guess": "glyph"
+            },
+            "rrrrg": {
+                "guess": "imply"
+            },
+            "ryrgy": {
+                "guess": "lying"
+            },
+            "rrrry": {
+                "guess": "lymph"
+            },
+            "ryrrr": {
+                "guess": "vigil"
+            },
+            "rrryy": {
+                "guess": "vinyl"
+            }
+        },
+        "rrrrg": {
+            "guess": "abamp",
+            "ryrrr": {
+                "guess": "blind"
+            },
+            "rrrry": {
+                "guess": "lipid"
+            },
+            "rrrrr": {
+                "guess": "livid"
+            }
+        },
+        "yyrrr": {
+            "guess": "block",
+            "rgggg": {
+                "guess": "flock"
+            }
+        },
+        "ryrrg": {
+            "guess": "aband",
+            "ryrgg": {
+                "guess": "blond"
+            },
+            "ryrrg": {
+                "guess": "blood"
+            },
+            "rrrrg": {
+                "guess": "flood"
+            }
+        },
+        "ryrrr": {
+            "guess": "aboon",
+            "ryggr": {
+                "guess": "bloom"
+            },
+            "rygrg": {
+                "guess": "blown"
+            },
+            "rrgrg": {
+                "guess": "flown"
+            },
+            "rrggr": {
+                "guess": "gloom"
+            },
+            "rrgry": {
+                "guess": "knoll"
+            },
+            "ryyrr": {
+                "guess": "limbo"
+            },
+            "rryry": {
+                "guess": "lingo"
+            }
+        },
+        "rrgrr": {
+            "guess": "genip",
+            "rrrrr": {
+                "guess": "bluff",
+                "rgggg": {
+                    "guess": "fluff"
+                }
+            },
+            "yryrr": {
+                "guess": "flung"
+            },
+            "rryrr": {
+                "guess": "flunk"
+            },
+            "rrrry": {
+                "guess": "plumb"
+            },
+            "rrrrg": {
+                "guess": "plump"
+            },
+            "rryry": {
+                "guess": "plunk"
+            }
+        },
+        "rrggr": {
+            "guess": "blurb"
+        },
+        "ryryr": {
+            "guess": "agios",
+            "rryyr": {
+                "guess": "broil"
+            },
+            "rrrgr": {
+                "guess": "floor"
+            },
+            "ryryr": {
+                "guess": "growl"
+            },
+            "rrryr": {
+                "guess": "prowl"
+            }
+        },
+        "rryrg": {
+            "guess": "build",
+            "rgggg": {
+                "guess": "guild"
+            }
+        },
+        "rryyr": {
+            "guess": "burly"
+        },
+        "grrrg": {
+            "guess": "child"
+        },
+        "grrrr": {
+            "guess": "blink",
+            "rygrr": {
+                "guess": "chili",
+                "ggggr": {
+                    "guess": "chill"
+                }
+            },
+            "ryyrr": {
+                "guess": "civil"
+            },
+            "rggrg": {
+                "guess": "click"
+            },
+            "rggrr": {
+                "guess": "cliff"
+            },
+            "yggrr": {
+                "guess": "climb"
+            },
+            "rgggr": {
+                "guess": "cling"
+            },
+            "rgggg": {
+                "guess": "clink"
+            }
+        },
+        "gyrrr": {
+            "guess": "clock",
+            "gggrr": {
+                "guess": "clown"
+            }
+        },
+        "gyyrg": {
+            "guess": "cloud"
+        },
+        "grgrr": {
+            "guess": "acmic",
+            "ryrry": {
+                "guess": "cluck"
+            },
+            "ryyrr": {
+                "guess": "clump"
+            },
+            "ryrrr": {
+                "guess": "clung"
+            }
+        },
+        "gggrg": {
+            "guess": "could"
+        },
+        "ggrrr": {
+            "guess": "coyly"
+        },
+        "gryyr": {
+            "guess": "curly"
+        },
+        "rrrry": {
+            "guess": "dimly",
+            "yyrgy": {
+                "guess": "idyll"
+            }
+        },
+        "rrryy": {
+            "guess": "drill",
+            "ggrgr": {
+                "guess": "dryly"
+            }
+        },
+        "ryryy": {
+            "guess": "droll",
+            "gggrg": {
+                "guess": "drool"
+            }
+        },
+        "yrrrr": {
+            "guess": "aalii",
+            "rryyr": {
+                "guess": "flick"
+            },
+            "rryyy": {
+                "guess": "icily"
+            },
+            "rryrr": {
+                "guess": "lynch"
+            }
+        },
+        "ryyyr": {
+            "guess": "flour"
+        },
+        "rrgrg": {
+            "guess": "fluid"
+        },
+        "rrryr": {
+            "guess": "aking",
+            "rrgrr": {
+                "guess": "frill"
+            },
+            "rryry": {
+                "guess": "girly"
+            },
+            "rrgry": {
+                "guess": "grill"
+            },
+            "rygrr": {
+                "guess": "krill"
+            },
+            "rrrrr": {
+                "guess": "wryly"
+            }
+        },
+        "ryyrr": {
+            "guess": "ghoul"
+        },
+        "ryrgr": {
+            "guess": "glory"
+        },
+        "rgrry": {
+            "guess": "godly"
+        },
+        "rgrrr": {
+            "guess": "adown",
+            "rryrr": {
+                "guess": "lobby"
+            },
+            "rryrg": {
+                "guess": "login"
+            },
+            "rrgrr": {
+                "guess": "loopy"
+            },
+            "rryyr": {
+                "guess": "lowly"
+            },
+            "rryry": {
+                "guess": "nobly"
+            },
+            "rrgyr": {
+                "guess": "wooly"
+            }
+        },
+        "ygrrr": {
+            "guess": "logic"
+        },
+        "rgrgr": {
+            "guess": "lorry"
+        },
+        "yryrg": {
+            "guess": "lucid"
+        },
+        "yryrr": {
+            "guess": "lucky",
+            "ggyrr": {
+                "guess": "lunch"
+            }
+        },
+        "rryrr": {
+            "guess": "aalii",
+            "rryrr": {
+                "guess": "lumpy"
+            },
+            "rrygr": {
+                "guess": "pupil"
+            },
+            "rryyr": {
+                "guess": "quill"
+            }
+        },
+        "yryyr": {
+            "guess": "lurch"
+        },
+        "rryyg": {
+            "guess": "lurid"
+        },
+        "yrryr": {
+            "guess": "lyric"
+        },
+        "rgyrr": {
+            "guess": "mogul"
+        },
+        "ryrry": {
+            "guess": "oddly"
+        },
+        "yrgrr": {
+            "guess": "pluck"
+        },
+        "rrrgr": {
+            "guess": "whirl"
+        },
+        "rgryg": {
+            "guess": "world"
+        },
+        "rggrg": {
+            "guess": "would"
+        }
+    },
+    "yryrr": {
+        "guess": "boeuf",
+        "grrrr": {
+            "guess": "bliss"
+        },
+        "grryr": {
+            "guess": "blush"
+        },
+        "ryrry": {
+            "guess": "floss"
+        },
+        "rrryy": {
+            "guess": "flush"
+        },
+        "ryrrr": {
+            "guess": "gloss"
+        },
+        "rgrgr": {
+            "guess": "locus"
+        },
+        "rgryr": {
+            "guess": "lousy"
+        },
+        "rrrgr": {
+            "guess": "lupus"
+        },
+        "rrryr": {
+            "guess": "plush"
+        }
+    },
+    "rryry": {
+        "guess": "afoul",
+        "rrrry": {
+            "guess": "blitz"
+        },
+        "rrgry": {
+            "guess": "cloth"
+        },
+        "rryry": {
+            "guess": "hotly"
+        },
+        "ryyry": {
+            "guess": "lofty"
+        },
+        "rrgrg": {
+            "guess": "troll"
+        },
+        "rrryy": {
+            "guess": "truly"
+        },
+        "rrrrg": {
+            "guess": "twirl"
+        },
+        "rrryg": {
+            "guess": "until"
+        }
+    },
+    "rryrg": {
+        "guess": "clung",
+        "rgggr": {
+            "guess": "blunt"
+        },
+        "rggrr": {
+            "guess": "blurt"
+        },
+        "ryyrr": {
+            "guess": "built",
+            "rgggg": {
+                "guess": "quilt"
+            }
+        },
+        "ggyrr": {
+            "guess": "clout"
+        },
+        "rgrgr": {
+            "guess": "flint"
+        },
+        "rgrrr": {
+            "guess": "flirt"
+        },
+        "rgyrr": {
+            "guess": "flout"
+        },
+        "rgrgy": {
+            "guess": "glint"
+        },
+        "ryyry": {
+            "guess": "guilt"
+        },
+        "ryrry": {
+            "guess": "light"
+        },
+        "ryrrr": {
+            "guess": "limit"
+        },
+        "rygrr": {
+            "guess": "moult"
+        }
+    },
+    "yrrrg": {
+        "guess": "moria",
+        "rgrrr": {
+            "guess": "boost",
+            "rgrgg": {
+                "guess": "joust"
+            }
+        },
+        "rrgrr": {
+            "guess": "burst"
+        },
+        "rryrr": {
+            "guess": "accoy",
+            "ryrrr": {
+                "guess": "crust"
+            },
+            "rrrrr": {
+                "guess": "trust"
+            },
+            "rrrry": {
+                "guess": "tryst"
+            }
+        },
+        "rrgyr": {
+            "guess": "first"
+        },
+        "rgryr": {
+            "guess": "aflaj",
+            "ryrrr": {
+                "guess": "foist"
+            },
+            "rrrrr": {
+                "guess": "hoist"
+            },
+            "rrrry": {
+                "guess": "joist"
+            }
+        },
+        "ryyrr": {
+            "guess": "frost"
+        },
+        "ryrrr": {
+            "guess": "ghost"
+        },
+        "grryr": {
+            "guess": "midst"
+        },
+        "ggryr": {
+            "guess": "moist"
+        },
+        "rgrgr": {
+            "guess": "posit"
+        },
+        "rgyrr": {
+            "guess": "roost"
+        },
+        "rrryr": {
+            "guess": "twist"
+        },
+        "rrrgr": {
+            "guess": "visit"
+        },
+        "rggrr": {
+            "guess": "worst"
+        },
+        "rryyr": {
+            "guess": "wrist"
+        }
+    },
+    "yrrgr": {
+        "guess": "mhorr",
+        "rrrrr": {
+            "guess": "bused"
+        },
+        "grrrg": {
+            "guess": "miser"
+        },
+        "rryrr": {
+            "guess": "nosey"
+        },
+        "rryrg": {
+            "guess": "poser"
+        },
+        "rrryr": {
+            "guess": "risen"
+        },
+        "rrryg": {
+            "guess": "riser"
+        },
+        "ryrrg": {
+            "guess": "usher"
+        },
+        "rrrrg": {
+            "guess": "wiser"
+        }
+    },
+    "rgyyr": {
+        "guess": "cadge",
+        "ggrrg": {
+            "guess": "cable"
+        },
+        "rgryg": {
+            "guess": "eagle"
+        },
+        "rgrry": {
+            "guess": "early"
+        },
+        "rgrrg": {
+            "guess": "fable",
+            "rgrgg": {
+                "guess": "maple"
+            }
+        },
+        "rggrg": {
+            "guess": "ladle"
+        },
+        "ygrrg": {
+            "guess": "lance"
+        },
+        "rgrgg": {
+            "guess": "large"
+        }
+    },
+    "rgrgg": {
+        "guess": "cadet",
+        "ygrgg": {
+            "guess": "facet"
+        }
+    },
+    "rgrrg": {
+        "guess": "thing",
+        "yrrrr": {
+            "guess": "caput",
+            "ggrrg": {
+                "guess": "carat"
+            }
+        },
+        "yrrgr": {
+            "guess": "abjad",
+            "yrrry": {
+                "guess": "daunt"
+            },
+            "yryrr": {
+                "guess": "jaunt"
+            },
+            "yrrrr": {
+                "guess": "vaunt"
+            }
+        },
+        "yrggr": {
+            "guess": "faint",
+            "rgggg": {
+                "guess": "paint"
+            }
+        },
+        "yrrry": {
+            "guess": "gamut"
+        },
+        "yrrgy": {
+            "guess": "gaunt"
+        },
+        "yyyrr": {
+            "guess": "habit"
+        },
+        "yyrgr": {
+            "guess": "haunt"
+        },
+        "gryrr": {
+            "guess": "tacit"
+        },
+        "grggr": {
+            "guess": "taint"
+        },
+        "grrrr": {
+            "guess": "tarot"
+        },
+        "grrgr": {
+            "guess": "taunt"
+        },
+        "yyrrr": {
+            "guess": "yacht"
+        }
+    },
+    "rgrgy": {
+        "guess": "metre",
+        "rygyr": {
+            "guess": "accha",
+            "yyrrr": {
+                "guess": "cater"
+            },
+            "yrryr": {
+                "guess": "hater"
+            },
+            "yrrrr": {
+                "guess": "water"
+            }
+        },
+        "rygry": {
+            "guess": "eaten"
+        },
+        "rygyy": {
+            "guess": "eater"
+        },
+        "gygrr": {
+            "guess": "matey"
+        },
+        "ryyrr": {
+            "guess": "taken"
+        },
+        "ryyyr": {
+            "guess": "taker",
+            "ggrgg": {
+                "guess": "taper"
+            }
+        },
+        "yyyyr": {
+            "guess": "tamer"
+        }
+    },
+    "ygryr": {
+        "guess": "ampul",
+        "yrryr": {
+            "guess": "cause"
+        },
+        "yyrrr": {
+            "guess": "masse"
+        },
+        "yryrr": {
+            "guess": "parse"
+        },
+        "yryyr": {
+            "guess": "pause"
+        },
+        "yrrrr": {
+            "guess": "raise"
+        }
+    },
+    "yrryr": {
+        "guess": "rhone",
+        "rgrry": {
+            "guess": "chess"
+        },
+        "rggrg": {
+            "guess": "chose",
+            "rgggg": {
+                "guess": "whose"
+            }
+        },
+        "rryrg": {
+            "guess": "appui",
+            "rrgrr": {
+                "guess": "copse"
+            },
+            "rrryr": {
+                "guess": "mouse"
+            },
+            "rrrrr": {
+                "guess": "obese"
+            },
+            "ryrry": {
+                "guess": "poise"
+            },
+            "ryrrr": {
+                "guess": "posse"
+            }
+        },
+        "yrrry": {
+            "guess": "acedy",
+            "rygrr": {
+                "guess": "cress"
+            },
+            "rrgyr": {
+                "guess": "dress"
+            },
+            "rrgrr": {
+                "guess": "press"
+            }
+        },
+        "yrrrg": {
+            "guess": "abcee",
+            "rryrg": {
+                "guess": "curse"
+            },
+            "rrrrg": {
+                "guess": "purse"
+            },
+            "rrryg": {
+                "guess": "verse"
+            }
+        },
+        "rrryg": {
+            "guess": "dense",
+            "ryyyg": {
+                "guess": "ensue"
+            }
+        },
+        "yyrry": {
+            "guess": "fresh"
+        },
+        "rrrrg": {
+            "guess": "abeng",
+            "rrgry": {
+                "guess": "geese"
+            },
+            "rryry": {
+                "guess": "guise"
+            },
+            "rryrr": {
+                "guess": "issue"
+            }
+        },
+        "rrgrg": {
+            "guess": "goose",
+            "rgggg": {
+                "guess": "moose"
+            }
+        },
+        "rrrry": {
+            "guess": "guess",
+            "rryyr": {
+                "guess": "pesky"
+            }
+        },
+        "yyyrg": {
+            "guess": "horse"
+        },
+        "ryyrg": {
+            "guess": "house"
+        },
+        "rryyg": {
+            "guess": "noise"
+        },
+        "rrgyg": {
+            "guess": "noose"
+        },
+        "yrryg": {
+            "guess": "nurse"
+        },
+        "rryry": {
+            "guess": "poesy"
+        },
+        "yrgrg": {
+            "guess": "prose"
+        },
+        "grrry": {
+            "guess": "rebus"
+        },
+        "grryy": {
+            "guess": "resin"
+        },
+        "grrrg": {
+            "guess": "reuse"
+        },
+        "grryg": {
+            "guess": "rinse"
+        },
+        "gryrg": {
+            "guess": "rouse"
+        },
+        "yryry": {
+            "guess": "verso"
+        },
+        "yryrg": {
+            "guess": "worse"
+        }
+    },
+    "yrryg": {
+        "guess": "quich",
+        "rrryy": {
+            "guess": "chest"
+        },
+        "rrryr": {
+            "guess": "crest"
+        },
+        "rrgrr": {
+            "guess": "exist"
+        },
+        "rgrrr": {
+            "guess": "guest"
+        },
+        "rrgry": {
+            "guess": "heist"
+        },
+        "ggrrr": {
+            "guess": "quest"
+        },
+        "rrrrr": {
+            "guess": "wrest"
+        }
+    },
+    "yyyrr": {
+        "guess": "chals",
+        "gygyy": {
+            "guess": "clash"
+        },
+        "grgyy": {
+            "guess": "clasp"
+        },
+        "grgyg": {
+            "guess": "class"
+        },
+        "rygyy": {
+            "guess": "flash"
+        },
+        "rrgyy": {
+            "guess": "flask"
+        },
+        "rrgyg": {
+            "guess": "glass"
+        },
+        "rrggy": {
+            "guess": "psalm"
+        },
+        "rryyy": {
+            "guess": "usual"
+        }
+    },
+    "rryyg": {
+        "guess": "acene",
+        "rygrr": {
+            "guess": "cleft"
+        },
+        "rrgrr": {
+            "guess": "dwelt"
+        },
+        "rygry": {
+            "guess": "elect"
+        },
+        "rryrr": {
+            "guess": "exult"
+        },
+        "rrgyr": {
+            "guess": "knelt"
+        }
+    },
+    "rygyr": {
+        "guess": "abray",
+        "rrrgg": {
+            "guess": "delay"
+        },
+        "yrrrr": {
+            "guess": "fella"
+        },
+        "rrygr": {
+            "guess": "relax"
+        },
+        "rrygg": {
+            "guess": "relay"
+        }
+    },
+    "rygyy": {
+        "guess": "delta"
+    },
+    "rrrgy": {
+        "guess": "mohur",
+        "rrrrg": {
+            "guess": "abrin",
+            "rryrr": {
+                "guess": "deter"
+            },
+            "rryry": {
+                "guess": "enter"
+            },
+            "rryyy": {
+                "guess": "inter"
+            },
+            "rryyr": {
+                "guess": "tiger"
+            }
+        },
+        "rrgrg": {
+            "guess": "ether"
+        },
+        "grrrg": {
+            "guess": "meter"
+        },
+        "ryrrr": {
+            "guess": "often"
+        },
+        "rygrg": {
+            "guess": "other"
+        },
+        "ryrrg": {
+            "guess": "otter"
+        },
+        "ryryg": {
+            "guess": "outer"
+        },
+        "rrrrr": {
+            "guess": "tepee",
+            "gyrgr": {
+                "guess": "tweed"
+            }
+        },
+        "rryrr": {
+            "guess": "thief"
+        },
+        "rryry": {
+            "guess": "three",
+            "ggggr": {
+                "guess": "threw"
+            }
+        },
+        "yrrrg": {
+            "guess": "timer"
+        },
+        "rgrrr": {
+            "guess": "token"
+        },
+        "ygrrr": {
+            "guess": "totem"
+        },
+        "rgrrg": {
+            "guess": "tower",
+            "ygrgg": {
+                "guess": "voter"
+            }
+        },
+        "rrrry": {
+            "guess": "tried"
+        },
+        "rrryg": {
+            "guess": "abuna",
+            "rrgrr": {
+                "guess": "truer"
+            },
+            "ryyrr": {
+                "guess": "tuber"
+            },
+            "rryrr": {
+                "guess": "utter"
+            }
+        }
+    },
+    "yrrry": {
+        "guess": "durgy",
+        "ggrrg": {
+            "guess": "dusty"
+        },
+        "rgryr": {
+            "guess": "gusto"
+        },
+        "rgryg": {
+            "guess": "gusty"
+        },
+        "rgrrg": {
+            "guess": "musty"
+        },
+        "rgyrg": {
+            "guess": "rusty"
+        },
+        "rrrrg": {
+            "guess": "tipsy"
+        },
+        "rrgrr": {
+            "guess": "torso"
+        },
+        "rygrr": {
+            "guess": "torus"
+        },
+        "ryyrr": {
+            "guess": "truss"
+        }
+    },
+    "ygygr": {
+        "guess": "easel"
+    },
+    "rygyg": {
+        "guess": "eclat"
+    },
+    "ryyyy": {
+        "guess": "abamp",
+        "rrgrr": {
+            "guess": "elate"
+        },
+        "yrrrr": {
+            "guess": "fetal"
+        },
+        "yrryr": {
+            "guess": "metal"
+        },
+        "yrrry": {
+            "guess": "petal"
+        },
+        "rrgry": {
+            "guess": "plate"
+        }
+    },
+    "rryyy": {
+        "guess": "axile",
+        "rrgyg": {
+            "guess": "elite"
+        },
+        "rgryy": {
+            "guess": "extol"
+        },
+        "rrryg": {
+            "guess": "flute"
+        },
+        "rrryy": {
+            "guess": "lefty"
+        },
+        "rryyg": {
+            "guess": "lithe"
+        },
+        "rrygg": {
+            "guess": "title"
+        },
+        "rrggg": {
+            "guess": "utile"
+        }
+    },
+    "yrrgy": {
+        "guess": "ester"
+    },
+    "yrryy": {
+        "guess": "troth",
+        "yryry": {
+            "guess": "ethos"
+        },
+        "yrrrr": {
+            "guess": "fetus"
+        },
+        "rrygr": {
+            "guess": "pesto"
+        },
+        "grrrr": {
+            "guess": "tense"
+        },
+        "gyrrr": {
+            "guess": "terse"
+        },
+        "grrgr": {
+            "guess": "testy"
+        },
+        "grrry": {
+            "guess": "these"
+        },
+        "grgry": {
+            "guess": "those"
+        },
+        "rrrgr": {
+            "guess": "zesty"
+        }
+    },
+    "yggyr": {
+        "guess": "false"
+    },
+    "rgyry": {
+        "guess": "abaft",
+        "yryyy": {
+            "guess": "fatal"
+        },
+        "yrrry": {
+            "guess": "latch"
+        },
+        "yryry": {
+            "guess": "natal"
+        }
+    },
+    "rgyrg": {
+        "guess": "fault",
+        "rgggg": {
+            "guess": "vault"
+        }
+    },
+    "rrggr": {
+        "guess": "adsum",
+        "rrrrr": {
+            "guess": "filer"
+        },
+        "rrrrg": {
+            "guess": "golem"
+        },
+        "rgrrr": {
+            "guess": "idler"
+        },
+        "rrrry": {
+            "guess": "melee"
+        },
+        "rrryr": {
+            "guess": "ruler"
+        }
+    },
+    "rrggg": {
+        "guess": "filet",
+        "ryggg": {
+            "guess": "inlet"
+        }
+    },
+    "rrgry": {
+        "guess": "filth",
+        "rygyr": {
+            "guess": "tulip"
+        }
+    },
+    "rrygg": {
+        "guess": "fleet"
+    },
+    "rggyr": {
+        "guess": "agush",
+        "yrrry": {
+            "guess": "halve"
+        },
+        "yryrr": {
+            "guess": "value"
+        },
+        "yrrrr": {
+            "guess": "valve"
+        }
+    },
+    "ygrry": {
+        "guess": "hansa",
+        "ggryr": {
+            "guess": "hasty"
+        },
+        "rgyyr": {
+            "guess": "nasty"
+        },
+        "rgryg": {
+            "guess": "pasta"
+        },
+        "rgryr": {
+            "guess": "pasty",
+            "rgggg": {
+                "guess": "tasty"
+            }
+        },
+        "rgrgr": {
+            "guess": "patsy"
+        }
+    },
+    "yrggg": {
+        "guess": "islet"
+    },
+    "ygyyr": {
+        "guess": "lapse"
+    },
+    "rgygy": {
+        "guess": "later"
+    },
+    "rgyyy": {
+        "guess": "abaht",
+        "yrrgy": {
+            "guess": "lathe"
+        },
+        "yrrry": {
+            "guess": "latte"
+        },
+        "yyrry": {
+            "guess": "table"
+        }
+    },
+    "yyyyg": {
+        "guess": "least"
+    },
+    "yrygr": {
+        "guess": "loser"
+    },
+    "yryry": {
+        "guess": "lusty"
+    },
+    "yggrr": {
+        "guess": "palsy"
+    },
+    "rrgrg": {
+        "guess": "pilot",
+        "rygrg": {
+            "guess": "unlit"
+        }
+    },
+    "yrgyr": {
+        "guess": "pulse",
+        "rrggy": {
+            "guess": "welsh"
+        }
+    },
+    "ggyrr": {
+        "guess": "sadly"
+    },
+    "ggrgr": {
+        "guess": "safer",
+        "ggrgg": {
+            "guess": "saner"
+        }
+    },
+    "ggrrg": {
+        "guess": "saint"
+    },
+    "gggrr": {
+        "guess": "aldol",
+        "yyyrr": {
+            "guess": "salad"
+        },
+        "yyrry": {
+            "guess": "sally"
+        },
+        "yyrgr": {
+            "guess": "salon"
+        },
+        "yyrrr": {
+            "guess": "salsa"
+        },
+        "yyryr": {
+            "guess": "salvo"
+        }
+    },
+    "gggry": {
+        "guess": "salty"
+    },
+    "gggyr": {
+        "guess": "salve"
+    },
+    "ggrrr": {
+        "guess": "copsy",
+        "rrryg": {
+            "guess": "sandy",
+            "ggrrg": {
+                "guess": "savvy"
+            }
+        },
+        "rrgyg": {
+            "guess": "sappy"
+        },
+        "rrrgg": {
+            "guess": "sassy"
+        },
+        "yrryg": {
+            "guess": "saucy"
+        },
+        "rrryr": {
+            "guess": "sauna"
+        },
+        "ryryr": {
+            "guess": "savor"
+        },
+        "ryryg": {
+            "guess": "savoy"
+        }
+    },
+    "ggrry": {
+        "guess": "satin",
+        "gggrr": {
+            "guess": "satyr"
+        }
+    },
+    "ggryr": {
+        "guess": "sauce"
+    },
+    "ggryy": {
+        "guess": "saute"
+    },
+    "gyyrr": {
+        "guess": "chill",
+        "yrrgr": {
+            "guess": "acedy",
+            "ygryr": {
+                "guess": "scald"
+            },
+            "ygrrr": {
+                "guess": "scalp"
+            },
+            "ygrrg": {
+                "guess": "scaly"
+            }
+        },
+        "rgrgg": {
+            "guess": "shall"
+        },
+        "rgrrg": {
+            "guess": "shawl",
+            "ggyrg": {
+                "guess": "shoal"
+            }
+        },
+        "yrryr": {
+            "guess": "slack"
+        },
+        "rryyr": {
+            "guess": "slain"
+        },
+        "rrryr": {
+            "guess": "slang"
+        },
+        "ryryr": {
+            "guess": "slash"
+        },
+        "rrrgg": {
+            "guess": "small"
+        },
+        "rryrg": {
+            "guess": "snail"
+        },
+        "rrrrg": {
+            "guess": "snarl"
+        }
+    },
+    "gyyyr": {
+        "guess": "accha",
+        "ygrrr": {
+            "guess": "scale"
+        },
+        "yrryr": {
+            "guess": "shale"
+        },
+        "yrrrr": {
+            "guess": "slave"
+        }
+    },
+    "gyrrr": {
+        "guess": "cramp",
+        "yrggg": {
+            "guess": "scamp"
+        },
+        "yygrr": {
+            "guess": "scarf",
+            "ggggr": {
+                "guess": "scary"
+            }
+        },
+        "yyyyr": {
+            "guess": "scram"
+        },
+        "yyyrg": {
+            "guess": "scrap"
+        },
+        "yryrr": {
+            "guess": "scuba"
+        },
+        "yrgrr": {
+            "guess": "shack",
+            "grggg": {
+                "guess": "snack"
+            }
+        },
+        "rrgrr": {
+            "guess": "ahind",
+            "ygrry": {
+                "guess": "shady"
+            },
+            "ygrrr": {
+                "guess": "shaky"
+            },
+            "ygrgr": {
+                "guess": "shank"
+            },
+            "yrryr": {
+                "guess": "snaky"
+            },
+            "yyrrr": {
+                "guess": "swash"
+            }
+        },
+        "rygrr": {
+            "guess": "shard",
+            "ggggr": {
+                "guess": "shark"
+            }
+        },
+        "rygrg": {
+            "guess": "sharp"
+        },
+        "rrygr": {
+            "guess": "sigma"
+        },
+        "yrgyr": {
+            "guess": "smack"
+        },
+        "rrgyr": {
+            "guess": "smash"
+        },
+        "rrgry": {
+            "guess": "aband",
+            "rrgrr": {
+                "guess": "soapy"
+            },
+            "rrggr": {
+                "guess": "spank"
+            },
+            "rrgyr": {
+                "guess": "spawn"
+            }
+        },
+        "ryyrr": {
+            "guess": "sonar",
+            "grrgg": {
+                "guess": "sugar"
+            }
+        },
+        "rygry": {
+            "guess": "spark"
+        },
+        "rrgyy": {
+            "guess": "spasm"
+        },
+        "ryyry": {
+            "guess": "spray"
+        },
+        "rryrr": {
+            "guess": "squad"
+        },
+        "yryyr": {
+            "guess": "sumac"
+        },
+        "rrggr": {
+            "guess": "swami"
+        },
+        "rrggg": {
+            "guess": "swamp"
+        },
+        "rygyr": {
+            "guess": "swarm"
+        }
+    },
+    "gyrrg": {
+        "guess": "atman",
+        "yyrry": {
+            "guess": "scant"
+        },
+        "yyrrr": {
+            "guess": "shaft"
+        },
+        "yyyrr": {
+            "guess": "smart"
+        },
+        "ryrgr": {
+            "guess": "squat"
+        },
+        "ygrrr": {
+            "guess": "start"
+        }
+    },
+    "gyryr": {
+        "guess": "pharm",
+        "rrggr": {
+            "guess": "scare",
+            "grggg": {
+                "guess": "snare"
+            }
+        },
+        "rryrr": {
+            "guess": "sedan",
+            "gyrgy": {
+                "guess": "sneak"
+            }
+        },
+        "yryrr": {
+            "guess": "sepia",
+            "gyyry": {
+                "guess": "speak"
+            }
+        },
+        "rggrr": {
+            "guess": "aduki",
+            "yyrrr": {
+                "guess": "shade"
+            },
+            "yrrgr": {
+                "guess": "shake"
+            },
+            "yrrrr": {
+                "guess": "shave"
+            }
+        },
+        "rggry": {
+            "guess": "shame"
+        },
+        "yggrr": {
+            "guess": "shape"
+        },
+        "rgggr": {
+            "guess": "share"
+        },
+        "rgyyr": {
+            "guess": "shear"
+        },
+        "rryyy": {
+            "guess": "smear"
+        },
+        "rrgrr": {
+            "guess": "snake",
+            "grgrg": {
+                "guess": "suave"
+            }
+        },
+        "yrgrr": {
+            "guess": "space",
+            "gggrg": {
+                "guess": "spade"
+            }
+        },
+        "yrggr": {
+            "guess": "spare"
+        },
+        "yryyr": {
+            "guess": "spear"
+        },
+        "rryyr": {
+            "guess": "swear"
+        }
+    },
+    "grryr": {
+        "guess": "prink",
+        "rrrgr": {
+            "guess": "abcee",
+            "rryyg": {
+                "guess": "scene"
+            },
+            "rryrg": {
+                "guess": "scone"
+            },
+            "rrrrg": {
+                "guess": "shone"
+            }
+        },
+        "yrrrr": {
+            "guess": "scope"
+        },
+        "ryrrr": {
+            "guess": "chere",
+            "yrrgg": {
+                "guess": "score"
+            },
+            "rryyr": {
+                "guess": "serum"
+            },
+            "rryyg": {
+                "guess": "serve"
+            },
+            "rgrgg": {
+                "guess": "shore"
+            },
+            "rrryg": {
+                "guess": "surge"
+            },
+            "rrrgg": {
+                "guess": "swore"
+            }
+        },
+        "rrrrr": {
+            "guess": "aahed",
+            "rrryy": {
+                "guess": "seedy"
+            },
+            "rrryr": {
+                "guess": "segue"
+            },
+            "rryyr": {
+                "guess": "shove"
+            }
+        },
+        "rrgrr": {
+            "guess": "seize"
+        },
+        "rrryr": {
+            "guess": "sense"
+        },
+        "ryyrr": {
+            "guess": "serif"
+        },
+        "rryrg": {
+            "guess": "sheik"
+        },
+        "rrggr": {
+            "guess": "shine",
+            "grggg": {
+                "guess": "swine"
+            }
+        },
+        "rygrr": {
+            "guess": "shire"
+        },
+        "rryrr": {
+            "guess": "siege",
+            "gggrg": {
+                "guess": "sieve"
+            }
+        },
+        "rryyr": {
+            "guess": "since",
+            "gggrg": {
+                "guess": "singe"
+            }
+        },
+        "rrrry": {
+            "guess": "smoke"
+        },
+        "rrgyr": {
+            "guess": "snide"
+        },
+        "yrgyr": {
+            "guess": "snipe"
+        },
+        "ryryr": {
+            "guess": "snore"
+        },
+        "yrrrg": {
+            "guess": "speck"
+        },
+        "yrrgr": {
+            "guess": "spend"
+        },
+        "yyrrr": {
+            "guess": "sperm",
+            "ggygr": {
+                "guess": "spore"
+            }
+        },
+        "yrgrr": {
+            "guess": "spice"
+        },
+        "yrgry": {
+            "guess": "spike"
+        },
+        "yrggr": {
+            "guess": "spine"
+        },
+        "yygrr": {
+            "guess": "spire"
+        },
+        "yrrry": {
+            "guess": "spoke"
+        }
+    },
+    "grryg": {
+        "guess": "acene",
+        "rgggr": {
+            "guess": "scent"
+        },
+        "rrggr": {
+            "guess": "spent"
+        },
+        "rrgrr": {
+            "guess": "swept"
+        }
+    },
+    "grrrr": {
+        "guess": "unrip",
+        "ryryr": {
+            "guess": "aargh",
+            "rrrrr": {
+                "guess": "scion"
+            },
+            "rrrry": {
+                "guess": "shiny"
+            },
+            "rrryr": {
+                "guess": "swing"
+            }
+        },
+        "rrrrr": {
+            "guess": "chack",
+            "yrrrr": {
+                "guess": "scoff"
+            },
+            "rgrgg": {
+                "guess": "shock"
+            },
+            "rgrrg": {
+                "guess": "shook"
+            },
+            "rgrrr": {
+                "guess": "showy"
+            },
+            "rrrgg": {
+                "guess": "smock"
+            },
+            "rrrry": {
+                "guess": "smoky"
+            },
+            "rrrrr": {
+                "guess": "soggy"
+            }
+        },
+        "rrrrg": {
+            "guess": "scoop",
+            "grggg": {
+                "guess": "swoop"
+            }
+        },
+        "ryyrr": {
+            "guess": "accha",
+            "rgrrr": {
+                "guess": "scorn"
+            },
+            "rrryr": {
+                "guess": "shorn"
+            },
+            "rrrrr": {
+                "guess": "sworn"
+            }
+        },
+        "yryrr": {
+            "guess": "scour"
+        },
+        "yrgrr": {
+            "guess": "abaca",
+            "ryryr": {
+                "guess": "scrub"
+            },
+            "rrryr": {
+                "guess": "scrum"
+            },
+            "ryrrr": {
+                "guess": "shrub"
+            },
+            "rrrrr": {
+                "guess": "shrug"
+            }
+        },
+        "rryyr": {
+            "guess": "shirk",
+            "grggg": {
+                "guess": "smirk"
+            }
+        },
+        "ryrrr": {
+            "guess": "aahed",
+            "rryrr": {
+                "guess": "shown"
+            },
+            "rrrrr": {
+                "guess": "swoon"
+            },
+            "rrrrg": {
+                "guess": "synod"
+            }
+        },
+        "yrrrr": {
+            "guess": "shuck",
+            "gggrr": {
+                "guess": "shush"
+            }
+        },
+        "rrryr": {
+            "guess": "abash",
+            "rrrgr": {
+                "guess": "sissy"
+            },
+            "rrryr": {
+                "guess": "skiff"
+            },
+            "rrrgg": {
+                "guess": "swish"
+            }
+        },
+        "rrryg": {
+            "guess": "skimp"
+        },
+        "yyrrr": {
+            "guess": "aduki",
+            "rrgyr": {
+                "guess": "skunk"
+            },
+            "rygrr": {
+                "guess": "sound"
+            },
+            "rryrr": {
+                "guess": "sunny"
+            },
+            "rrgrr": {
+                "guess": "swung"
+            }
+        },
+        "rgryr": {
+            "guess": "sniff"
+        },
+        "rgrrg": {
+            "guess": "snoop"
+        },
+        "rgrrr": {
+            "guess": "snowy"
+        },
+        "ygrrr": {
+            "guess": "snuck",
+            "gggrr": {
+                "guess": "snuff"
+            }
+        },
+        "ryrgr": {
+            "guess": "sonic"
+        },
+        "rrgrr": {
+            "guess": "sorry"
+        },
+        "rrryy": {
+            "guess": "spicy",
+            "gggrg": {
+                "guess": "spiky"
+            }
+        },
+        "ryryy": {
+            "guess": "spiny"
+        },
+        "rrrry": {
+            "guess": "spoof",
+            "ggggr": {
+                "guess": "spook"
+            }
+        },
+        "ryrry": {
+            "guess": "spoon"
+        },
+        "rrggy": {
+            "guess": "sprig"
+        },
+        "yyrry": {
+            "guess": "spunk"
+        },
+        "yyyry": {
+            "guess": "spurn"
+        },
+        "yrrgr": {
+            "guess": "squib"
+        },
+        "yyryr": {
+            "guess": "suing"
+        },
+        "yrryr": {
+            "guess": "sushi"
+        },
+        "rryrr": {
+            "guess": "sword"
+        },
+        "yrgrg": {
+            "guess": "syrup"
+        }
+    },
+    "gryrr": {
+        "guess": "plouk",
+        "rygrr": {
+            "guess": "scold",
+            "gggyr": {
+                "guess": "scowl"
+            }
+        },
+        "ryrrr": {
+            "guess": "aargh",
+            "rrrry": {
+                "guess": "shyly"
+            },
+            "rrrrr": {
+                "guess": "swill"
+            },
+            "rryrr": {
+                "guess": "swirl"
+            }
+        },
+        "ryrry": {
+            "guess": "skill"
+        },
+        "ryryg": {
+            "guess": "skulk"
+        },
+        "ryryy": {
+            "guess": "skull"
+        },
+        "rgrrg": {
+            "guess": "slick",
+            "gggrg": {
+                "guess": "slink"
+            }
+        },
+        "rgrrr": {
+            "guess": "abrim",
+            "rrryy": {
+                "guess": "slimy"
+            },
+            "rrryr": {
+                "guess": "sling"
+            },
+            "rrrrr": {
+                "guess": "slyly"
+            }
+        },
+        "yggrr": {
+            "guess": "sloop"
+        },
+        "rggrr": {
+            "guess": "slosh"
+        },
+        "ygryr": {
+            "guess": "slump",
+            "gggrg": {
+                "guess": "slurp"
+            }
+        },
+        "rgryr": {
+            "guess": "slung",
+            "gggrr": {
+                "guess": "slush"
+            }
+        },
+        "rgryg": {
+            "guess": "slunk"
+        },
+        "yyrrr": {
+            "guess": "spill"
+        },
+        "yygrr": {
+            "guess": "spoil",
+            "gggrg": {
+                "guess": "spool"
+            }
+        },
+        "ryryr": {
+            "guess": "surly"
+        }
+    },
+    "grrrg": {
+        "guess": "rohun",
+        "ryrgr": {
+            "guess": "apace",
+            "rrryr": {
+                "guess": "scout"
+            },
+            "rgrrr": {
+                "guess": "spout"
+            },
+            "rrrrr": {
+                "guess": "stout"
+            }
+        },
+        "rryrr": {
+            "guess": "shift",
+            "gyyrg": {
+                "guess": "sight"
+            }
+        },
+        "yryrr": {
+            "guess": "shirt"
+        },
+        "ryyrr": {
+            "guess": "shoot"
+        },
+        "yyyrr": {
+            "guess": "short"
+        },
+        "ryygr": {
+            "guess": "shout"
+        },
+        "rryyy": {
+            "guess": "shunt"
+        },
+        "yrrrr": {
+            "guess": "skirt"
+        },
+        "yyrry": {
+            "guess": "snort"
+        },
+        "ryrgy": {
+            "guess": "snout"
+        },
+        "yyrrr": {
+            "guess": "sport"
+        },
+        "yrryr": {
+            "guess": "spurt"
+        },
+        "rrrry": {
+            "guess": "stint"
+        },
+        "yrrgr": {
+            "guess": "strut"
+        },
+        "rrryy": {
+            "guess": "stunt"
+        },
+        "rrrrr": {
+            "guess": "swift"
+        }
+    },
+    "grrgr": {
+        "guess": "hewer",
+        "ryrgy": {
+            "guess": "scree",
+            "grggg": {
+                "guess": "spree"
+            }
+        },
+        "rrygy": {
+            "guess": "screw"
+        },
+        "rgrgr": {
+            "guess": "semen",
+            "ggrgg": {
+                "guess": "seven"
+            }
+        },
+        "rgrgg": {
+            "guess": "sever"
+        },
+        "rgggg": {
+            "guess": "sewer"
+        },
+        "yyrgr": {
+            "guess": "sheen",
+            "ggggr": {
+                "guess": "sheep"
+            }
+        },
+        "yyrgg": {
+            "guess": "sheer"
+        },
+        "yrrgr": {
+            "guess": "shied"
+        },
+        "yrygy": {
+            "guess": "shrew"
+        },
+        "rrygr": {
+            "guess": "sinew"
+        },
+        "rrrgy": {
+            "guess": "siren"
+        },
+        "rrrgg": {
+            "guess": "abrim",
+            "rryyr": {
+                "guess": "skier"
+            },
+            "ryyrr": {
+                "guess": "sober"
+            },
+            "rryrr": {
+                "guess": "super"
+            },
+            "rrgrr": {
+                "guess": "surer"
+            }
+        },
+        "ryrgg": {
+            "guess": "sneer"
+        },
+        "rrggg": {
+            "guess": "sower"
+        },
+        "ryrgr": {
+            "guess": "speed"
+        },
+        "rrrgr": {
+            "guess": "spied"
+        },
+        "ryygr": {
+            "guess": "sweep"
+        }
+    },
+    "grryy": {
+        "guess": "korun",
+        "rrrgr": {
+            "guess": "setup"
+        },
+        "rrrrr": {
+            "guess": "smite",
+            "grggg": {
+                "guess": "spite"
+            }
+        },
+        "ryrrr": {
+            "guess": "smote",
+            "grgyg": {
+                "guess": "stove"
+            }
+        },
+        "rrrrg": {
+            "guess": "stein"
+        },
+        "rryrg": {
+            "guess": "stern"
+        },
+        "yyrrr": {
+            "guess": "stoke"
+        },
+        "ryrry": {
+            "guess": "stone"
+        },
+        "ryyrr": {
+            "guess": "store"
+        },
+        "rrryr": {
+            "guess": "suite"
+        }
+    },
+    "gyyrg": {
+        "guess": "shalt",
+        "grgyg": {
+            "guess": "slant"
+        }
+    },
+    "grrgg": {
+        "guess": "sheet",
+        "grggg": {
+            "guess": "sweet"
+        }
+    },
+    "gryyr": {
+        "guess": "chemo",
+        "rggrr": {
+            "guess": "shelf",
+            "ggggr": {
+                "guess": "shell"
+            }
+        },
+        "yryrr": {
+            "guess": "slice"
+        },
+        "rryrr": {
+            "guess": "slide"
+        },
+        "rrygr": {
+            "guess": "slime"
+        },
+        "rryry": {
+            "guess": "slope"
+        },
+        "rrgyr": {
+            "guess": "smell"
+        },
+        "rryyr": {
+            "guess": "smile"
+        },
+        "rrgrr": {
+            "guess": "spell",
+            "grggg": {
+                "guess": "swell"
+            }
+        }
+    },
+    "grgrr": {
+        "guess": "aduki",
+        "rrrgy": {
+            "guess": "silky"
+        },
+        "rrrry": {
+            "guess": "silly"
+        },
+        "ryrry": {
+            "guess": "solid"
+        },
+        "rrygr": {
+            "guess": "sulky"
+        },
+        "rryrr": {
+            "guess": "sully"
+        }
+    },
+    "grrry": {
+        "guess": "yoick",
+        "rryrr": {
+            "guess": "sixth",
+            "gyryr": {
+                "guess": "strip"
+            }
+        },
+        "yryrr": {
+            "guess": "sixty"
+        },
+        "rrgrr": {
+            "guess": "aargh",
+            "rrrrg": {
+                "guess": "smith"
+            },
+            "rrrrr": {
+                "guess": "stiff"
+            },
+            "rrryr": {
+                "guess": "sting"
+            }
+        },
+        "rgrrr": {
+            "guess": "sooth",
+            "ggrgg": {
+                "guess": "south"
+            }
+        },
+        "ygrrr": {
+            "guess": "sooty"
+        },
+        "rrggg": {
+            "guess": "stick"
+        },
+        "rrgrg": {
+            "guess": "stink"
+        },
+        "ryrgg": {
+            "guess": "stock"
+        },
+        "ryyyr": {
+            "guess": "stoic"
+        },
+        "ryrrr": {
+            "guess": "abamp",
+            "rrrgg": {
+                "guess": "stomp"
+            },
+            "rrrrr": {
+                "guess": "stood"
+            },
+            "rrrrg": {
+                "guess": "stoop"
+            },
+            "rrryr": {
+                "guess": "storm"
+            }
+        },
+        "yyrrr": {
+            "guess": "stony",
+            "gggrg": {
+                "guess": "story"
+            }
+        },
+        "ryrrg": {
+            "guess": "stork"
+        },
+        "rrrgg": {
+            "guess": "stuck"
+        },
+        "yrrrr": {
+            "guess": "study"
+        },
+        "rrrrr": {
+            "guess": "adman",
+            "rrrrr": {
+                "guess": "stuff"
+            },
+            "rryrr": {
+                "guess": "stump"
+            },
+            "rrrry": {
+                "guess": "stung"
+            }
+        },
+        "rrrrg": {
+            "guess": "stunk"
+        }
+    },
+    "gyryy": {
+        "guess": "grike",
+        "rrryg": {
+            "guess": "skate"
+        },
+        "yrrrg": {
+            "guess": "stage"
+        },
+        "rrrgg": {
+            "guess": "stake"
+        },
+        "ryrrg": {
+            "guess": "stare"
+        },
+        "rrrrg": {
+            "guess": "state",
+            "gggrg": {
+                "guess": "stave"
+            }
+        },
+        "rrrry": {
+            "guess": "stead",
+            "ggggr": {
+                "guess": "steam"
+            }
+        },
+        "rrryy": {
+            "guess": "steak"
+        }
+    },
+    "gyyyy": {
+        "guess": "abate",
+        "rrggg": {
+            "guess": "slate"
+        },
+        "rrgyg": {
+            "guess": "stale"
+        },
+        "yrryy": {
+            "guess": "steal"
+        }
+    },
+    "grygr": {
+        "guess": "abamp",
+        "rrrrr": {
+            "guess": "sleek"
+        },
+        "rrrrg": {
+            "guess": "sleep"
+        },
+        "rrrry": {
+            "guess": "spiel"
+        }
+    },
+    "grygg": {
+        "guess": "sleet"
+    },
+    "gryyg": {
+        "guess": "adapt",
+        "rrrgg": {
+            "guess": "slept"
+        },
+        "rrrrg": {
+            "guess": "smelt"
+        },
+        "rrryg": {
+            "guess": "spelt"
+        }
+    },
+    "gryry": {
+        "guess": "aarti",
+        "rrrgr": {
+            "guess": "sloth"
+        },
+        "rrryy": {
+            "guess": "still"
+        },
+        "rrryr": {
+            "guess": "stool"
+        }
+    },
+    "gygrr": {
+        "guess": "solar"
+    },
+    "grgyr": {
+        "guess": "solve"
+    },
+    "gryrg": {
+        "guess": "spilt",
+        "grggg": {
+            "guess": "stilt"
+        }
+    },
+    "gygrg": {
+        "guess": "splat"
+    },
+    "grgrg": {
+        "guess": "split"
+    },
+    "gyrry": {
+        "guess": "prink",
+        "rrrrg": {
+            "guess": "stack"
+        },
+        "rrrrr": {
+            "guess": "abash",
+            "rrgyr": {
+                "guess": "staff"
+            },
+            "rrggg": {
+                "guess": "stash"
+            },
+            "rrgyg": {
+                "guess": "swath"
+            }
+        },
+        "rryrr": {
+            "guess": "staid"
+        },
+        "rryyr": {
+            "guess": "stain"
+        },
+        "ryyrr": {
+            "guess": "stair"
+        },
+        "yrrrr": {
+            "guess": "stamp"
+        },
+        "rrrgr": {
+            "guess": "stand"
+        },
+        "rrrgg": {
+            "guess": "stank"
+        },
+        "ryrrg": {
+            "guess": "stark"
+        },
+        "yyrrr": {
+            "guess": "strap"
+        },
+        "ryrrr": {
+            "guess": "straw",
+            "ggggr": {
+                "guess": "stray"
+            }
+        }
+    },
+    "gyyry": {
+        "guess": "stalk",
+        "ggggr": {
+            "guess": "stall"
+        }
+    },
+    "grrgy": {
+        "guess": "abord",
+        "rrrrg": {
+            "guess": "steed"
+        },
+        "rrrrr": {
+            "guess": "steep"
+        },
+        "rrryr": {
+            "guess": "steer"
+        }
+    },
+    "grygy": {
+        "guess": "steel"
+    },
+    "gryyy": {
+        "guess": "stole",
+        "ggrgg": {
+            "guess": "style"
+        }
+    },
+    "gyryg": {
+        "guess": "sweat"
+    },
+    "rggry": {
+        "guess": "ablow",
+        "yrgrr": {
+            "guess": "tally"
+        },
+        "yrggr": {
+            "guess": "talon"
+        },
+        "yrgry": {
+            "guess": "waltz"
+        }
+    },
+    "yyryy": {
+        "guess": "tease"
+    },
+    "rrgyy": {
+        "guess": "tilde",
+        "grgrg": {
+            "guess": "tulle"
+        }
+    },
+    "rgggg": {
+        "guess": "valet"
+    },
+    "ygrrg": {
+        "guess": "waist"
+    }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%236aaa64%22/><text x=%2250%25%22 y=%2272%25%22 font-size=%2270%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22 font-weight=%22bold%22>W</text></svg>">
+    <title>Wordle Solver</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Wordle Decipherer</h1>
+        <p>(The starting word should always be salet!)</p>
+    </header>
+      <section class="info-section">
+    <div class="info-content">
+        <span class="info-tag">ABOUT THE SOLVER</span>
+
+        <h3>Solves wordle answers<br>Tries to get as few attempts as possible</h3>
+
+        <p>
+            The "Quick" solver solves for any answer on the orignal 2,300 word answer list of Wordle.
+<br> But since New York Times took over Wordle, the word list is not followed exactly and new words get added every now and then, so the "Realistic" solver finds the answer over all the 14,800 acceptable words by Wordle.
+        </p>
+
+        <div class="info-highlight">
+            <span class="info-tag"> Choose "Quick" for testing<br> Choose "Realistic" for an actual Wordle </span>
+        </div>
+    </div>
+
+    
+</section>
+    <main>
+ 
+<div class="mode-switch">
+    <button id="normal-mode" class="mode-btn active"
+            onclick="switchMode('tree.json')">
+        Quick
+    </button>
+
+    <button id="big-mode" class="mode-btn"
+            onclick="switchMode('treebig.json')">
+        Realistic
+    </button>
+</div>
+        <div class="legend">
+            <span><i class="gray"></i> Absent</span>
+            <span><i class="yellow"></i> Present</span>
+            <span><i class="green"></i> Correct</span>
+        </div>
+
+        <div id="guesses"></div>
+
+        <p id="message" role="status"></p>
+
+        <p class="hint">
+            Click each tile to change its color.
+            Your next guess appears automatically.
+          <br>(R:Grey  G:Green  Y:Yellow)
+        </p>
+    </main>
+
+    <script src="solver.js"></script>
+</body>
+</html>
